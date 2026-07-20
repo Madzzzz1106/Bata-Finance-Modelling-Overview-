@@ -128,11 +128,37 @@ graph TD
 
 ---
 
-## 📈 Strategic Deliverables Included
+## 📈 Strategic Deliverables & Visualizations
 
-1. **[MECE Issue Tree](bata_mece_issue_tree.md):** Breaks down the core strategic challenges (e.g., Bata's stagnant EBITDA and volume loss) into mutually exclusive and collectively exhaustive root causes (Asset-Heavy overheads, delayed "Sneakerization" response, and supply-chain drag).
-2. **[SWOT Analysis](bata_swot_analysis.md):** A detailed evaluation of Bata’s strong distribution network and high cash reserves versus its legacy premium pricing challenges and high inventory holding days (195 days).
-3. **[Strategic Recommendations](bata_strategic_recommendations.md):** Executable action items outlining an aggressive franchise expansion model (T3-T5 markets), scaling standalone Sneaker Studios, and deploying "Endless Aisle" omni-channel retail inventory tools.
+### 1. MECE Issue Tree & Strategic Frameworks
+The core strategic challenges (Bata's stagnant EBITDA and volume loss) are broken down into mutually exclusive and collectively exhaustive root causes:
+* **[MECE Issue Tree Detail](bata_mece_issue_tree.md):** Analyzes asset-heavy overheads, delayed "Sneakerization" response, and supply-chain drag.
+* **[SWOT Analysis Detail](bata_swot_analysis.md):** Details Bata’s strong distribution network and high cash reserves versus legacy premium pricing challenges and inventory holding days.
+
+![MECE Issue Tree Framework](extracted/universal_mece_issue_tree.png)
+
+*Figure 1: MECE Issue Tree Structure for Footwear Sector Profitability Analysis*
+
+---
+
+### 2. Peer Benchmarking & Financial Analysis
+Our pipeline produces deep financial comparisons across the sector:
+- **EBITDA Margins:** Metro Brands enjoys industry-leading premium margins, while Relaxo maintains mass-market volume efficiency.
+- **Altman Z-Score Credit Risk Analysis:** Visualizes the credit health and default risk boundaries across peers.
+
+| Metric | EBITDA Margin Chart | Altman Z-Score Comparison |
+| :--- | :--- | :--- |
+| **Chart** | ![EBITDA Margin Chart](extracted/peer_ebitda_margin_chart.png) | ![Altman Z-Score Chart](extracted/Z_Score_Chart.png) |
+
+---
+
+### 3. Actionable Business Recommendations
+Detailed recommendations are prioritized using an impact-feasibility matrix:
+- **[Strategic Recommendations Detail](bata_strategic_recommendations.md):** Actionable plans for T3-T5 franchise expansion, Sneaker Studio scaling, and "Endless Aisle" omni-channel deployment.
+
+![Strategic Impact-Feasibility Matrix](extracted/impact_feasibility_matrix.png)
+
+*Figure 2: Prioritizing Strategic Initiatives by Implementation Feasibility and Enterprise Impact*
 
 ---
 
