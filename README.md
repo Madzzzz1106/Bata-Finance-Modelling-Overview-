@@ -167,17 +167,51 @@ Files are organized in logical order, placing documentation and final analysis d
 Examines stagnating capex efficiency and isolates structural bottlenecks in profitability.
 ![MECE Issue Tree Framework](extracted/universal_mece_issue_tree.png)
 
+#### 🔍 Graph Analysis & Interpretation
+*   **The Core Problem Statement (Level 0):** Investigates why Bata's cumulative Capex of **₹317.49 Crore** since FY22 has failed to generate revenue growth and asset efficiency (Asset Turnover down to 0.91).
+*   **Logical Decomposition (Level 1):** The tree splits the problem into three mutually exclusive pathways:
+    1.  *Revenue Growth Drivers:* Analyzes channel-mix (COCO vs. Franchise), premium product scaling (*Sneaker Studios*, *Hush Puppies*), and D2C marketing conversion.
+    2.  *Working Capital & Capital Employed Levers:* Evaluates inventory cycles (195.06 days) and capital locks in COCO stores vs. franchisee capital delegation.
+    3.  *Fixed & Variable Cost Structures:* Audits IndAS 116 lease liabilities (₹1,446.45 Cr) and advertising and promotion (A&P) expenditures.
+*   **Actionable Leaves (Level 2):** Highlights specific tactical levers (e.g. inventory reduction to 155 days, shifting to FOFO expansion mix) that can be tested to release capital and improve ROCE.
+
+---
+
 ### 2. Peer EBITDA Margin Comparison
 Compares core operating margins, highlighting the margin deficit relative to premium peers.
 ![EBITDA Margin Chart](extracted/peer_ebitda_margin_chart.png)
+
+#### 🔍 Graph Analysis & Interpretation
+*   **The Operating Margin Gap:** While Bata’s reported EBITDA margin is **26.55%** in FY25, this includes a non-recurring land monetization gain of **₹133.95 Crore**. Excluding this, Bata's core operating EBITDA margin sits at **21.13%**.
+*   **Metro Brands Premium Benchmark:** Metro Brands leads the industry with a **30.53% EBITDA margin** in FY25—exceeding Bata's core operating profitability by **940 basis points**. 
+*   **Financial Reinvestment Capacity:** This margin gap means Metro Brands generates significantly more operational cash per rupee of sales. This cash is reinvested to acquire premium real estate, presenting a major threat to Bata's urban store market share.
+*   **Mass Market Benchmark:** Bata’s core operating margin (21.13%) remains stronger than mass-market peers Relaxo (**14.66%**), Campus Activewear (**16.21%**), and Liberty Shoes (**9.89%**).
+
+---
 
 ### 3. Credit Default Risk (Altman Z-Score)
 Tracks solvency indexes over time relative to standard safe and default zones.
 ![Altman Z-Score Chart](extracted/Z_Score_Chart.png)
 
+#### 🔍 Graph Analysis & Interpretation
+*   **Solvency Trend Vector:** Bata’s Altman Z-Score trended from **1.99 in FY22** to a peak of **2.42 in FY23**, followed by consecutive declines to **2.37 in FY24** and **2.14 in FY25**.
+*   **Distress Boundary Assessment:** Under emerging market thresholds, a Z-Score below **1.23** represents the "Distress/Default Zone," while a score above **2.90** is the "Safe Zone."
+*   **The Grey Zone Position:** Bata’s current score of **2.14** places it firmly in the **Grey Zone**. While the business is highly liquid and holds zero bank borrowings, the downward trajectory over the last two years reflects compressed operating profits and asset turnover. This signals the need for operational improvements to prevent credit health erosion.
+
+---
+
 ### 4. Implementation Prioritization Matrix
 Prioritizes strategic recommendations based on financial impact vs implementation feasibility.
 ![Strategic Impact-Feasibility Matrix](extracted/impact_feasibility_matrix.png)
+
+#### 🔍 Graph Analysis & Interpretation
+*   **Quick Wins (High Impact, High Feasibility):** Found in the top-right quadrant. These represent the immediate tactical focus:
+    - *Franchise Store Expansion:* Replaces capital-heavy stores with franchisee capital, lifting ROCE.
+    - *Inventory Cycle Reduction:* Decreasing inventory days from 195 to 155 days is projected to release **₹125.40 Crore in trapped cash by FY27** with zero execution capital.
+*   **Strategic Initiatives (High Impact, Low Feasibility):** Top-left quadrant. Long-term goals:
+    - *Standalone Sneaker Studio Outlets:* High impact to capture youth casual markets, but requires capital expenditure and location sourcing.
+*   **Fill-ins (Low Impact, High Feasibility):** Bottom-right quadrant. Executed when excess capacity is available (e.g. renegotiating commercial leases for underperforming sites).
+*   **Avoid (Low Impact, Low Feasibility):** Bottom-left quadrant. Cutting prices in value segments to capture volume, which compresses margins under high inflation.
 
 ---
 
