@@ -30,3 +30,8 @@ __pycache__/
 # Scratch debug files
 scratch/
 
+# Text files and dumps
+*.txt
+extracted/*.txt
+
+
