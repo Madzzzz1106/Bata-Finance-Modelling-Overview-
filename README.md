@@ -100,10 +100,10 @@ graph TD
 │   ├── build_master.py             # Normalization, unit conversion, and consolidation script
 │   ├── extract_excel.py            # competitor metrics extractor for Excel screener sheets
 │   └── generate_analysis_files.py  # Generates markdown strategic analysis deliverables
-├── scratch/                        # Diagnostic and validation scripts
 ├── bata_swot_analysis.md           # Strategic SWOT analysis framework
 ├── bata_mece_issue_tree.md         # MECE Issue Tree detailing root causes of margin decline
 ├── bata_strategic_recommendations.md # Executable retail & omni-channel recommendations
+├── TECHNICAL_DOCUMENTATION.md      # Comprehensive technical architecture & workflows
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Repository overview (this file)
 ```
@@ -111,6 +111,8 @@ graph TD
 ---
 
 ## 🛠️ Data Pipeline & Workflow
+
+For a detailed explanation of the libraries used (PyMuPDF, Pandas, OpenPyXL), operational metrics, formulas, and pipeline configuration, check out the [Technical System Documentation](TECHNICAL_DOCUMENTATION.md).
 
 ### 1. Extraction (`scripts/extract_all.py`)
 - Employs `PyMuPDF` (`fitz`) to execute coordinate-based bounding box queries to isolate tabular data from PDFs.
@@ -143,12 +145,14 @@ The core strategic challenges (Bata's stagnant EBITDA and volume loss) are broke
 
 ### 2. Peer Benchmarking & Financial Analysis
 Our pipeline produces deep financial comparisons across the sector:
-- **EBITDA Margins:** Metro Brands enjoys industry-leading premium margins, while Relaxo maintains mass-market volume efficiency.
-- **Altman Z-Score Credit Risk Analysis:** Visualizes the credit health and default risk boundaries across peers.
 
-| Metric | EBITDA Margin Chart | Altman Z-Score Comparison |
-| :--- | :--- | :--- |
-| **Chart** | ![EBITDA Margin Chart](extracted/peer_ebitda_margin_chart.png) | ![Altman Z-Score Chart](extracted/Z_Score_Chart.png) |
+#### EBITDA Margin Peer Comparison
+Metro Brands enjoys industry-leading premium margins, while Relaxo maintains mass-market volume efficiency.
+![EBITDA Margin Chart](extracted/peer_ebitda_margin_chart.png)
+
+#### Altman Z-Score Credit Risk Analysis
+Visualizes the credit health and default risk boundaries across peers to monitor financial distress risk.
+![Altman Z-Score Chart](extracted/Z_Score_Chart.png)
 
 ---
 
