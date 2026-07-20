@@ -1,18 +1,27 @@
-cffi==2.0.0
-charset-normalizer==3.4.7
-cryptography==49.0.0
-et_xmlfile==2.0.0
-numpy==2.0.2
-openpyxl==3.1.5
-pandas==2.3.3
-pdfminer.six==20251107
-pdfplumber==0.11.8
-pillow==11.3.0
-pycparser==2.23
-PyMuPDF==1.26.5
-pypdfium2==5.10.1
-python-dateutil==2.9.0.post0
-pytz==2026.2
-six==1.17.0
-typing_extensions==4.15.0
-tzdata==2026.2
+# ==============================================================================
+# BATA Footwear Sector Competitive Intelligence Pipeline: Dependencies
+# ==============================================================================
+
+# --- Core PDF Extraction & Text Mining ---
+PyMuPDF>=1.26.5         # High-precision layout parsing and bounding-box queries
+pdfplumber>=0.11.8      # Supplemental layout-based tabular parsing
+pdfminer.six>=20231228  # Core PDF content representation parsing
+
+# --- Data Manipulation & Analysis ---
+pandas>=2.0.0           # Unified data transformation, units mapping, and consolidation
+numpy>=1.24.0           # High-performance numerical computations
+
+# --- Spreadsheet (Excel) Operations ---
+openpyxl>=3.1.2         # Programmatic read/write engine for competitor .xlsx files
+et_xmlfile>=1.1.0       # Openpyxl dependency for XML serialization
+
+# --- Data Visualization & Plotting ---
+matplotlib>=3.7.0       # Solvency (Z-Score) line-plots and comparative charts
+seaborn>=0.12.0         # Premium styling for comparative peer bar-charts
+
+# --- Security & Foundations ---
+cryptography>=41.0.0    # Secure session management and environment loading
+cffi>=1.16.0            # C Foreign Function Interface for platform-native extensions
+pillow>=10.0.0          # Imaging library supporting visualization builds
+python-dateutil>=2.8.2  # Dynamic date-time parsing utilities
+tzdata>=2023.3          # Standard IANA time zone database
