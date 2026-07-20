@@ -1,6 +1,8 @@
 # Footwear Sector Intelligence: Bata India & Competitor Analysis Pipeline
 
-An end-to-end data engineering and strategic analysis pipeline designed to extract, clean, and consolidate financial and qualitative disclosures from **Bata India** and its major industry competitors (**Metro Brands, Relaxo, Campus Activewear, Khadim India, and Liberty Shoes**) from **FY21 to FY25**.
+An end-to-end data engineering and strategic analysis pipeline designed to extract, clean, and consolidate financial and qualitative disclosures from **Bata India** and its major industry competitors (**Metro Brands, Relaxo, Campus Activewear, Khadim India, and Liberty Shoes**) from **FY21 to FY25**. 
+
+*Read the core business findings and diagnostic highlights in our [Executive Summary](bata_executive_summary.md).*
 
 The project automates the transition from unstructured PDFs (Annual Reports) and Excel exports to a clean, unified analytical database, followed by structured corporate strategy frameworks (MECE issue trees, SWOT, and strategic recommendations).
 
@@ -103,6 +105,7 @@ graph TD
 ├── bata_swot_analysis.md           # Strategic SWOT analysis framework
 ├── bata_mece_issue_tree.md         # MECE Issue Tree detailing root causes of margin decline
 ├── bata_strategic_recommendations.md # Executable retail & omni-channel recommendations
+├── bata_executive_summary.md       # High-level business overview and strategic key findings
 ├── TECHNICAL_DOCUMENTATION.md      # Comprehensive technical architecture & workflows
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Repository overview (this file)
