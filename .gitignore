@@ -1,0 +1,28 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.*
+
+# Large files
+*.pptx
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/

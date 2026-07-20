@@ -1,0 +1,512 @@
+--- Page 189 ---
+
+NOTES TO THE STANDALONE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2021
+BATA INDIA LIMITED
+162
+(Amount in INR million)
+a) Trade receivables 
+Customer and vendor credit risk is managed by business through the Company's established policy, procedures and control relating to 
+credit risk management. Credit quality of each customer is assessed and credit limits are defined in accordance with this assessment. 
+Outstanding customer receivables are regularly monitored.
+An impairment analysis is performed for all major customers at each reporting date on an individual basis. In addition, a large number of 
+minor receivables are grouped into homogenous group and assessed for impairment collectively. The calculation is based on historical 
+data. The maximum exposure to credit risk at the reporting date is the carrying value of each class of financial assets disclosed in note 9. 
+The Company evaluates the concentration of risk with respect to trade receivables as low, as its customers are located in several industries 
+and operate in largely independent markets.
+b) Loans and other financial assets 
+With regards to all the financial assets with contractual cashflows other than trade receivables, management believes these to be high 
+quality assets with negligible credit risk. The management believes that the parties from which these financial assets are recoverable, have 
+strong capacity to meet the obligations and where the risk of default is negligible. The maximum exposure to credit risk at the reporting date 
+in each class of financial assets is disclosed in note 5, 10 and 11.   
+C) Liquidity risk
+The Company's principal source of liquidity is cash and cash equivalents and the cash flow that is generated from operations. The 
+Company has no outstanding bank borrowings. The Company believes that the working capital is sufficient to meet its current requirements. 
+Accordingly, no liquidity risk is perceived.
+As of 31 March 2021, the Company had a working capital of INR 11,445.65 Million including cash and cash equivalents of  INR  544.33 
+Million . As of 31 March 2020, the Company had a working capital of INR 11,990.91 Million including cash and cash equivalents of  INR 
+150.14 Million . 
+D) Commodity price risk
+The Company is exposed to the risk of price fluctuation of raw material as well as finished goods. The Company manages its commodity 
+price risk by maintaining adequate inventory of raw materials and finished goods considering future price movement. To counter raw 
+material risk, the Company works with variety of leather, PVC and rubber with the objective to moderate raw material cost, enhance 
+application flexibility and increased product functionality and also invests in product development and innovation. To counter finished 
+goods risk, the Company deals with wide range of vendors and manages these risks through inventory management and proactive vendor 
+development practices.
+Inventory sensitivity analysis (raw material, work in progress and finished goods)
+A reasonably possible change of 5% in prices of inventory at the reporting date, would have increased (decreased) equity and profit or loss 
+by the amounts shown below. This analysis assumes that all other variables remain constant.
+Profit or loss
+Equity, net of tax
+5% increase 5% decrease
+5% increase
+5% decrease
+31 March 2021
+Inventory (raw material, work in progress, stock in trade and finished goods)
+     (186.68)
+      186.68 
+    (141.56)
+       141.56 
+31 March 2020
+Inventory (raw material, work in progress, stock in trade and finished goods)
+     (267.18)
+      267.18 
+    (202.61)
+       202.61 
+38. Company has unavailed working capital borrowing limits of Rs. 1000 million as on March 31, 2021 which has been surrendered during 
+May 2021.
+
+
+--- Page 190 ---
+
+NOTES TO THE STANDALONE FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2021
+BATA INDIA LIMITED
+ANNUAL REPORT 2020-21 163
+(Amount in INR million)
+39. Segment Reporting
+Segment information is presented in respect of the company’s key operating segments. The operating segments are based on 
+the company’s management and internal reporting structure. 
+Operating Segments 
+The Company's Managing Director and CEO have been identified as the Chief Operating Decision Maker ('CODM'), since they 
+are responsible for all major decision w.r.t. the preparation and execution of business plan, preparation of budget and other 
+key decisions. 
+The Managing Director and CEO review the operating results at the Company level to make decisions about the Company's 
+performance. Accordingly, management has identified the business as single operating segment i.e. Footwear & Accessories. 
+Accordingly, there is only one Reportable Segment for the Company which is “Footwear and Accessories”, hence no specific 
+disclosures have been made.  
+Other disclosures are as follows:
+a)
+Revenue and Trade receivables as per Geographical Markets
+Particulars
+Revenue
+Trade Receivables
+For the year 
+ended 
+31 March 2021
+For the year 
+ended 
+31 March 2020
+As at
+31 March 2021
+As at
+31 March 2020
+India  
+16,996.57 
+30,364.85 
+774.64 
+600.05 
+Outside India
+                 76.42 
+              169.66 
+                  19.02 
+                12.26 
+Total
+         17,072.99 
+        30,534.51 
+               793.66 
+             612.31 
+b)
+The non-current assets of the Company are located in the country of domicile i.e. India. Hence no specific disclosures have 
+been made.
+c)
+There are no major customer having revenue greater than 10% of the Company
+40. The current financial year has been a challenging year for our business. The year began amidst a strict lockdown post the 
+emergence of the Coronavirus (COVID-19) towards the end of the last financial year. The economy gradually opened post 
+June 2020 and the second half of the year was progressing towards recovery. However, a much stronger second wave of 
+Covid-19 infections hit the country towards the end of year and has once again resulted in significant disruption to our business 
+as several state governments have announced partial/ complete restrictions. As a result, the Company has made detailed 
+assessment of the recoverability and carrying values of its assets comprising property, plant and equipment, inventories, 
+receivables, other current assets, deferred tax assets, etc. as at the period end and on the basis of evaluation, has concluded 
+that no material adjustments are required in the financial results. Given the uncertainties associated with nature, condition and 
+duration of COVID-19, the impact assessment on the Company's financial statements will be continuously made and provided 
+for as required.
+41. Note 22 includes R&D expenses of INR 47.96 million (31 March 2020 INR 54.69 million) and Note 25 includes R&D expenses 
+of INR 8.99 million (31 March 2020 INR 13.56 million). 
+42. The disclosure regarding details of specified bank notes held and transaction during 8 November 2016 to 30 December 2016 
+have not been made since the requirement does not pertain to financial year ended 31 March 2021.
+ As per our report of even date attached
+For and on behalf of the Board of Directors of Bata India Limited
+For B S R & Co. LLP
+Rajeev Gopalakrishnan
+Sandeep Kataria
+Ashok Kumar Barat
+ICAI Firm Registration number: 101248W/W-100022
+Managing Director
+Whole Time Diretor & CEO
+Independent Director 
+Chartered Accountants
+DIN: 03438046
+DIN: 05183714
+DIN: 00492930
+Rajiv Goyal
+Ram Kumar Gupta
+Vidhya Srinivasan
+Nitin Bagaria
+Partner
+Director Finance & CFO
+Director Finance & CFO
+Company Secretary
+Membership no.: 094549
+DIN: 01125065
+DIN: 06900413
+Membership no. ACS 20228
+Place: Gurugram
+Date: 09 June 2021
+
+
+--- Page 191 ---
+
+BATA INDIA LIMITED
+164
+Form AOC-1
+(Pursuant to first proviso to sub-section (3) of section 129 read with Rule 5 of Companies (Accounts) Rules, 2014)
+Statement containing salient features of the financial statement of subsidiaries or associate companies or joint ventures
+Part A: Subsidiaries
+(Rs. In Million)
+Sl. No.
+Particulars
+Name of the Subsidiaries
+Bata Properties
+Limited
+Coastal Commercial
+& Exim Limited*
+Way Finders
+Brands Limited
+1.
+The date since when subsidiary was acquired
+14/08/1987
+11/10/1991
+26/12/2014
+2.
+Reporting period for the subsidiary concerned, if different 
+from the holding Company’s reporting period
+-
+-
+-
+3.
+Share capital
+Authorised:
+101.00
+-
+1.00
+Issued & Subscribed:
+48.51
+-
+1.00
+4.
+Reserves and surplus
+10.01
+-
+(26.81)
+5.
+Total assets
+58.63
+-
+1.07
+6.
+Total Liabilities
+58.63
+-
+1.07
+7.
+Investments
+-
+-
+-
+8.
+Turnover
+3.86
+-
+11.82
+9.
+Profit before taxation
+2.57
+-
+7.94
+10.
+Provision for taxation
+0.87
+-
+-
+11.
+Profit after taxation
+1.70
+-
+7.94
+12.
+Proposed Dividend
+-
+-
+-
+13.
+Extent of shareholding (in percentage)
+100
+-
+100
+Notes: 1. Names of subsidiaries which are yet to commence operations: None
+2. Names of subsidiaries which have been liquidated or sold during the year: None
+*merged with Bata Properties Ltd. w.e.f. April 1, 2020 (Appointed Date)
+Part B: Associates and Joint Ventures
+Statement pursuant to Section 129 (3) of the Companies Act, 2013 related to Associate Companies and Joint Ventures
+Sl. No.
+Name of Associates or Joint Ventures
+Not Applicable
+1.
+Latest audited Balance Sheet Date
+2.
+Date on which the Associate or Joint Venture was associated or acquired
+3.
+Shares of Associate or Joint Ventures held by the Company on the year end
+No.
+Amount of Investment in Associates or Joint Venture
+Extent of Holding (in percentage)
+4.
+Description of how there is significant influence
+5.
+Reason why the associate/joint venture is not consolidated
+6.
+Net worth attributable to shareholding as per latest audited Balance Sheet
+7.
+Profit or Loss for the year
+i.  Considered in Consolidation
+ii. Not Considered in Consolidation
+Notes:     1. Names of associates or joint ventures which are yet to commence operations: None
+2. Names of associates or joint ventures which have been liquidated or sold during the year: None
+For and on behalf of the Board of Directors of Bata India Limited
+Rajeev Gopalakrishnan
+Sandeep Kataria
+Ashok Kumar Barat
+Managing Director
+Whole-Time Director & CEO
+Independent Director 
+DIN: 03438046
+DIN: 05183714
+DIN: 00492930
+Ram Kumar Gupta
+Vidhya Srinivasan
+Nitin Bagaria
+Director Finance & CFO
+Director Finance & CFO
+Company Secretary
+DIN: 01125065
+DIN: 06900413
+Membership no.: ACS 20228
+Place : Gurugram
+Date  : June 9, 2021
+	
+	
+ 
+
+
+--- Page 192 ---
+
+BATA INDIA LIMITED
+ANNUAL REPORT 2020-21 165
+INDEPENDENT AUDITOR’S REPORT
+To the Members of Bata India Limited
+Report on the Audit of the Consolidated Financial Statements
+Opinion
+We have audited the consolidated financial statements of Bata India Limited (hereinafter referred to as the ‘Holding 
+Company”) and its subsidiaries (Holding Company and its subsidiaries together referred to as “the Group”), which 
+comprises the consolidated balance sheet as at 31 March 2021, the consolidated statement of profit and loss (including 
+other comprehensive income), consolidated statement of changes in equity and consolidated statement of cash flows for 
+the year then ended, and notes to the consolidated financial statements, including a summary of significant accounting 
+policies and other explanatory information (hereinafter referred to as “the consolidated financial statements”).
+In our opinion and to the best of our information and according to the explanations given to us, and based on the consideration 
+of reports of other auditor on separate financial statements of such subsidiaries as were audited by the other auditor, the 
+aforesaid consolidated financial statements give the information required by the Companies Act, 2013 (“Act”) in the manner 
+so required and give a true and fair view in conformity with the  accounting principles generally accepted in India, of the 
+consolidated state of affairs of the Group, as at 31 March 2021, of its consolidated loss and other comprehensive income, 
+consolidated changes in equity and consolidated cash flows for the year then ended.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section 143(10) of the Act. 
+Our responsibilities under those SAs are further described in the Auditor’s Responsibilities for the Audit of the Consolidated 
+Financial Statements section of our report. We are independent of the Group, in accordance with the ethical requirements 
+that are relevant to our audit of the consolidated financial statements in terms of the Code of Ethics issued by the Institute of 
+Chartered Accountants of India and the relevant provisions of the Act, and we have fulfilled our other ethical responsibilities 
+in accordance with these requirements. We believe that the audit evidence obtained by us along with the consideration of 
+audit reports of the other auditor referred to in sub paragraph (a) of the “Other Matters” paragraph below, is sufficient and 
+appropriate to provide a basis for our opinion on the consolidated financial statements.
+Key Audit Matters
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the standalone 
+financial statements of the current period. These matters were addressed in the context of our audit of the standalone financial 
+statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+Description of Key Audit Matter 
+The key audit matter
+How the matter was addressed in our audit
+Revenue recognition
+See Note 2.2(h) and Note 18 to the consolidated 
+financial statements
+Revenue from the sale of goods is recognised when 
+control in goods is transferred to the customer and is 
+measured net of rebates, discounts and returns.
+A substantial part of Group’s revenue relates to retail 
+sales through a large number of Group owned outlets 
+and comprises high volume of individually small 
+transactions which increases the risk of revenue being 
+recognised inappropriately and which highlights the 
+criticality of sound internal processes of summarising 
+and recording sales revenue to mitigate error and fraud 
+risk.
+In view of the significance of the matter, we applied the following audit 
+procedures in this area, among others to obtain sufficient appropriate 
+audit evidence: 
+A)	 Assessed the appropriateness of the accounting policy for revenue 
+recognition as per relevant accounting standard. 
+B)	 Evaluated the design and implementation of key internal financial 
+controls with respect to the revenue recognition and tested the 
+operating effectiveness of such controls  including those related to the 
+reconciliation of sales records to cash / credit card / online receipts, 
+preparation, posting and approval of journal entries on the basis of 
+selected transactions.
+C)	 For samples selected using statistical sampling, performed detailed 
+testing of retail sale transactions during the year by examining the 
+underlying documents and agreeing them with the cash / credit card 
+/ online receipts and deposit of cash amounts recorded in daily cash 
+reports with bank deposits. 
+
+
+--- Page 193 ---
+
+BATA INDIA LIMITED
+166
+The key audit matter
+How the matter was addressed in our audit
+Standards on Auditing presume that there is fraud 
+risk with regard to revenue recognition. We focused 
+on this area since there is a risk that revenue may 
+be overstated because of fraud, resulting due to the 
+pressure from Management and Board of Directors 
+who may strive to achieve performance targets. Also, 
+revenue is a key performance indicator for the Group 
+which makes it susceptible to misstatement.
+In view of the above, we have identified revenue 
+recognition as a key audit matter.
+D)	Tested on sample basis, the periodic reconciliation of the retail sales 
+recognised during the period with the underlying collections made by 
+the Group and sales as per indirect tax records. 
+E)	 Performed cash counts, on a test basis, at selected stores and 
+examined whether the cash balances are in agreement with the cash 
+receipts reported in the daily collection report. 
+F)	 Tested sample journal entries affecting revenue recognised during 
+the year, selected based on specified risk-based criteria, to identify 
+unusual items.
+G)	Involved our IT specialists to assist us in testing of general IT controls 
+and key IT application controls relating to retail revenue recognition.
+H)	We carried out analytical procedures on revenue recognised during the 
+year to identify unusual variances.
+Net realisable value (NRV) of Inventories of finished 
+goods
+See Note 2.2(g) and Note 8 to the consolidated 
+financial statements
+The major part Group’s inventory comprises finished 
+goods which are geographically spread across multiple 
+locations such as retail stores, depots and factories. 
+These inventories are counted by the Group on a 
+cyclical basis and determination of NRV is made 
+based on various estimates (including those related to 
+obsolescence of slow and non-moving inventory) by 
+the Group as at end of reporting period. 
+The Group manufactures and sells goods which are 
+subject to changing consumer demands and fashion 
+trends. Significant degree of judgment is thereby 
+required to assess the NRV of the inventories and 
+appropriate write down of items which may be 
+ultimately sold below their cost. Such judgment 
+includes Group’s expectations for future sale volumes, 
+inventory liquidation plans and future selling prices 
+less cost to sell. 
+In view of the above, assessment of NRV and its 
+consequential impact, if any on the carrying value of 
+inventories of finished goods has been identified as a 
+key audit matter.
+In view of the significance of the matter, we applied the following audit 
+procedures in this area, among others to obtain sufficient appropriate 
+audit evidence:
+A)	 Assessed the appropriateness of the accounting policy for inventories 
+as per relevant accounting standards.
+B)	 Evaluated the design and implementation of key internal financial 
+controls with respect to determination of NRV for slow and non-moving 
+inventory as well as inventory with low or negative gross margins 
+and tested the operating effectiveness of such controls on selected 
+transactions.
+C)	 On a sample basis, assessed whether items in the inventory ageing 
+report prepared by the Group were classified within the appropriate 
+ageing bracket.
+D)	Assessed the methodology and assumptions adopted by the 
+management including retrospective review of the write down of slow 
+and non-moving inventory by comparing the selling prices of goods 
+sold during the year with opening carrying values.
+E)	 Assessed, on a sample basis, the net realisable value of slow-moving 
+and obsolete inventories and inventories with low or negative gross 
+margins as calculated by the Group by comparing the carrying value 
+with their subsequent selling prices and costs to sell subsequent to the 
+year-end.
+F)	 We carried out analytical procedures on inventory to identify unusual 
+variances.
+Other Information 
+The Holding Company’s management and Board of Directors are responsible for the other information. The other information 
+comprises the information included in the Holding Company’s annual report, but does not include the financial statements and 
+our auditor’s report thereon.
+Our opinion on the consolidated financial statements does not cover the other information and we do not express any form of 
+assurance conclusion thereon.
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other information and, in 
+doing so, consider whether the other information is materially inconsistent with the consolidated financial statements or our 
+knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the work we have performed 
+and based on the work done/ audit reports of other auditor, we conclude that there is a material misstatement of this other 
+information, we are required to report that fact. We have nothing to report in this regard.
+
+
+--- Page 194 ---
+
+BATA INDIA LIMITED
+ANNUAL REPORT 2020-21 167
+Management's and Board of Directors’ Responsibility for the Consolidated Financial Statements 
+The Holding Company’s Management and Board of Directors are responsible for the preparation and presentation of these 
+consolidated financial statements in term of the requirements of the Act that give a true and fair view of the consolidated 
+state of affairs, consolidated profit/loss and other comprehensive income, consolidated statement of changes in equity and 
+consolidated cash flows of the Group in accordance with the accounting principles generally accepted in India, including 
+the Indian Accounting Standards (Ind AS) specified under section 133 of the Act. The respective Management and Board 
+of Directors of the companies included in the Group are responsible for maintenance of adequate accounting records in 
+accordance with the provisions of the Act for safeguarding the assets of each company and for preventing and detecting frauds 
+and other irregularities; the selection and application of appropriate accounting policies; making judgments and estimates that 
+are reasonable and prudent; and the design, implementation and maintenance of adequate internal financial controls, that 
+were operating effectively for ensuring accuracy and completeness of the accounting records, relevant to the preparation and 
+presentation of the  consolidated financial statements that give a true and fair view and are free from material misstatement, 
+whether due to fraud or error, which have been used for the purpose of preparation of the consolidated financial statements by 
+the Management and Directors of the Holding Company, as aforesaid.
+In preparing the consolidated financial statements, the respective Management and Board of Directors of the companies 
+included in the Group are responsible for assessing the ability of each company to continue as a going concern, disclosing, as 
+applicable, matters related to going concern and using the going concern basis of accounting unless the respective Board of 
+Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the companies included in the Group is responsible for overseeing the financial reporting 
+process of each company.
+Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are 
+free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will 
+always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material 
+if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on 
+the basis of these consolidated financial statements. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism 
+throughout the audit. We also:
+• Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or 
+error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and 
+appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, 
+or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in 
+the circumstances. Under section 143(3)(i) of the Act, we are also responsible for expressing our opinion on the internal 
+financial controls with reference to the consolidated financial statements and the operating effectiveness of such controls 
+based on our audit.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related 
+disclosures made by the Management and Board of Directors.
+• Conclude on the appropriateness of Management and Board of Directors use of the going concern basis of accounting in 
+preparation of consolidated financial statements and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the appropriateness of this assumption. If we 
+conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures 
+in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are 
+based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may 
+cause the Group to cease to continue as a going concern.
+• Evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, 
+and whether the consolidated financial statements represent the underlying transactions and events in a manner that 
+achieves fair presentation.

@@ -1,0 +1,424 @@
+{
+    "Bata_FY21.pdf": {
+        "Balance Sheet": [
+            149,
+            168,
+            179,
+            182,
+            195,
+            199,
+            218,
+            228,
+            231
+        ],
+        "Statement of Profit and Loss": [
+            150,
+            200
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            184,
+            234
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            182,
+            231
+        ],
+        "MD&A": [
+            66,
+            74
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 251
+    },
+    "Bata_FY22.pdf": {
+        "Balance Sheet": [
+            123,
+            129,
+            149,
+            159,
+            161,
+            181,
+            212,
+            214
+        ],
+        "Statement of Profit and Loss": [
+            130,
+            182
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            164,
+            217
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            162,
+            214
+        ],
+        "MD&A": [
+            59,
+            66
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 235
+    },
+    "Bata_FY23.pdf": {
+        "Balance Sheet": [
+            148,
+            168,
+            171,
+            184,
+            187,
+            197,
+            210,
+            230,
+            232,
+            244,
+            247
+        ],
+        "Statement of Profit and Loss": [
+            149,
+            211
+        ],
+        "Cash Flow Statement": [
+            151,
+            213
+        ],
+        "Notes to Accounts (Related Party)": [
+            189,
+            248
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            187,
+            247
+        ],
+        "MD&A": [
+            55,
+            62
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 264
+    },
+    "Bata_FY24.pdf": {
+        "Balance Sheet": [
+            164,
+            183,
+            189,
+            201,
+            204,
+            232,
+            252,
+            257,
+            269,
+            272
+        ],
+        "Statement of Profit and Loss": [
+            165,
+            233
+        ],
+        "Cash Flow Statement": [
+            167,
+            235
+        ],
+        "Notes to Accounts (Related Party)": [
+            207,
+            274
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            205,
+            273
+        ],
+        "MD&A": [
+            56,
+            63
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 292
+    },
+    "Bata_FY25.pdf": {
+        "Balance Sheet": [
+            151,
+            171,
+            189,
+            192,
+            214,
+            221,
+            241,
+            258,
+            261
+        ],
+        "Statement of Profit and Loss": [
+            152,
+            222
+        ],
+        "Cash Flow Statement": [
+            154,
+            224
+        ],
+        "Notes to Accounts (Related Party)": [
+            195,
+            263
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            193,
+            262
+        ],
+        "MD&A": [
+            47,
+            54
+        ],
+        "Auditor's Report": [
+            141
+        ],
+        "Total Pages": 285
+    },
+    "Metro_FY21.pdf": {
+        "Balance Sheet": [
+            47,
+            51,
+            54,
+            68,
+            93,
+            99,
+            114
+        ],
+        "Statement of Profit and Loss": [],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [],
+        "Notes to Accounts (Contingent Liabilities)": [
+            76,
+            123
+        ],
+        "MD&A": [],
+        "Auditor's Report": [
+            47,
+            50,
+            51,
+            93,
+            96
+        ],
+        "Total Pages": 143
+    },
+    "Metro_FY22.pdf": {
+        "Balance Sheet": [
+            127,
+            132,
+            153,
+            204,
+            226
+        ],
+        "Statement of Profit and Loss": [
+            133,
+            205
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [],
+        "Notes to Accounts (Contingent Liabilities)": [
+            167,
+            241
+        ],
+        "MD&A": [],
+        "Auditor's Report": [],
+        "Total Pages": 290
+    },
+    "Metro_FY23.pdf": {
+        "Balance Sheet": [
+            150,
+            211,
+            220,
+            226,
+            250,
+            294
+        ],
+        "Statement of Profit and Loss": [
+            151,
+            227
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [],
+        "Notes to Accounts (Contingent Liabilities)": [
+            187,
+            266
+        ],
+        "MD&A": [
+            51
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 317
+    },
+    "Metro_FY24.pdf": {
+        "Balance Sheet": [
+            70,
+            71,
+            73,
+            74,
+            81,
+            102,
+            105,
+            106,
+            109,
+            119,
+            139
+        ],
+        "Statement of Profit and Loss": [
+            74,
+            88,
+            109,
+            124
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [],
+        "Notes to Accounts (Contingent Liabilities)": [
+            91,
+            127
+        ],
+        "MD&A": [
+            28
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 153
+    },
+    "Metro_FY25.pdf": {
+        "Balance Sheet": [
+            74,
+            77,
+            78,
+            86,
+            99,
+            109,
+            114,
+            117,
+            138,
+            139,
+            151
+        ],
+        "Statement of Profit and Loss": [
+            78,
+            94,
+            117,
+            134
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [],
+        "Notes to Accounts (Contingent Liabilities)": [
+            97,
+            137
+        ],
+        "MD&A": [
+            26
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 161
+    },
+    "Relaxo_FY21.pdf": {
+        "Balance Sheet": [
+            76,
+            91,
+            118
+        ],
+        "Statement of Profit and Loss": [
+            77
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            116
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            106
+        ],
+        "MD&A": [],
+        "Auditor's Report": [],
+        "Total Pages": 126
+    },
+    "Relaxo_FY22.pdf": {
+        "Balance Sheet": [
+            80,
+            96,
+            126
+        ],
+        "Statement of Profit and Loss": [
+            81
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            119
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            110
+        ],
+        "MD&A": [
+            14
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 132
+    },
+    "Relaxo_FY23.pdf": {
+        "Balance Sheet": [
+            98,
+            114,
+            145
+        ],
+        "Statement of Profit and Loss": [
+            99
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            138
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            128
+        ],
+        "MD&A": [
+            14
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 152
+    },
+    "Relaxo_FY24.pdf": {
+        "Balance Sheet": [
+            108,
+            112,
+            128,
+            160
+        ],
+        "Statement of Profit and Loss": [
+            113
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            153
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            143
+        ],
+        "MD&A": [
+            14,
+            19
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 166
+    },
+    "Relaxo_FY25.pdf": {
+        "Balance Sheet": [
+            106,
+            121,
+            156
+        ],
+        "Statement of Profit and Loss": [
+            107
+        ],
+        "Cash Flow Statement": [],
+        "Notes to Accounts (Related Party)": [
+            149
+        ],
+        "Notes to Accounts (Contingent Liabilities)": [
+            138
+        ],
+        "MD&A": [
+            13,
+            18
+        ],
+        "Auditor's Report": [],
+        "Total Pages": 164
+    }
+}

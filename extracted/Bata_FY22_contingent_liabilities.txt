@@ -1,0 +1,96 @@
+--- Page 214 ---
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2022
+Bata India Limited
+ANNUAL REPORT 2021-22 187
+(Amount in INR million)
+Expected employer contribution for the period ending 31 March 2023 is INR 50 million.
+b) Contribution to defined contribution plans:
+For the year 
+ended
+31 March 2022
+For the year 
+ended
+31 March 2021
+Pension fund                                                                                         
+  5.93 
+  7.57 
+c)  Provident fund:
+The Provident Fund (where administered by a Trust) is a defined benefit scheme where by the Company deposits an amount determined 
+as a fixed percentage of basic pay to the fund every month. The benefit vests upon commencement of employment. The interest credited to 
+the accounts of the employees is adjusted on an annual basis to confirm to the interest rate declared by the government for the Employees 
+Provident Fund. As per the Actuarial Society of India guidance note (GN21) for measurement of provident fund liabilities, the actuary has 
+accordingly provided a valuation based on the below provided assumptions, there is no shortfall as at 31 March 2022.
+As at
+31 March 2022
+As at
+31 March 2021
+Discount Rate
+7.00%
+6.60%
+Expected Return on Exempt Fund
+8.81%
+8.52%
+Rate of Return on EPFO managed PF
+8.10%
+8.50%
+Mortality Rate
+Indian Assured 
+Lives Mortality 
+(2012-14) 
+ultimate
+Indian Assured 
+Lives Mortality 
+(2012-14) 
+ultimate
+For the year 
+ended
+31 March 2022
+For the year 
+ended
+31 March 2021
+Contribution to provident and other funds*
+  147.14 
+139.12
+*Included under employee benefit expense in the head contribution to provident fund and other funds.
+The detail of fund and plan asset position is given below:
+As at
+31 March 2022
+As at
+31 March 2021
+Plan assets at fair value
+  4,576.40 
+4,444.28
+Present value of the defined benefit obligation
+  4,043.85 
+3,857.83
+Asset recognized in the Balance Sheet 
+NIL
+NIL
+Information relating to reconciliation from opening balance to closing balance for plan assets and present value of defined benefit 
+obligation, classes of plan assets help, sensitivity analysis for actuarial assumptions, other than disclosed above, including the methods 
+and assumptions used in preparing the analysis, expected contribution for the next year and maturity profile of the defined benefit 
+obligation as required by INDAS - 19 ‘Employee benefits’ is not available with the Company.
+30. Contingent liabilities and commitments
+A. Contingent liabilities 
+a) Claims against Group not acknowledged as debts includes:
+Nature
+As at
+31 March 2022
+As at
+31 March 2021
+Excise, customs and service tax cases
+         116.61 
+         116.61 
+Sales tax and entry tax cases
+         389.49 
+          15.80 
+Others*
+         322.27 
+         279.24 
+Total
+         828.37 
+        411.65 
+*Includes Rs. 83.76 million for a demand raised by Directorate of Revenue Intelligence, Custom Kolkata for availment of benefit of customs exemption 
+notification on import of Moulds in the year 1998-99. The Company filed an appeal before Appellate authority, who has set aside the matter and 
+referred back to Commissioner of Custom for adjudication. Balance include individually small cases pertaining to rent, labour, wages etc.

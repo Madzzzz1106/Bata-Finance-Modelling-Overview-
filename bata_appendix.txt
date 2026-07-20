@@ -1,0 +1,452 @@
+================================================================================
+                    BATA INDIA LIMITED: STRATEGIC TURNAROUND PROJECT
+                     COMPREHENSIVE APPENDIX & REFERENCE DIRECTORY
+================================================================================
+Prepared by: Summer Strategy Analyst / Retail Operations Intern
+Methodology: Quantitative Financial Modeling, Marketing Diagnostics & Retail Tech
+Date: June 2026
+================================================================================
+
+--------------------------------------------------------------------------------
+SECTION 1: DETAILED FINANCIAL FORECASTING MODEL & CHANNEL ASSUMPTIONS
+--------------------------------------------------------------------------------
+
+This section outlines the financial modeling mechanics and channel growth drivers 
+used to project Bata India's performance from the FY25 Actual baseline through 
+the FY28 Target horizon.
+
+A. Core Compounding & Margin Formulas:
+
+   1. Revenue Compound Annual Growth Rate (CAGR) Formula:
+      Revenue CAGR = [ ( Revenue_FY28 / Revenue_FY25 ) ^ ( 1 / 3 ) ] - 1
+      * Status Quo CAGR: [ ( 3,648 / 3,489 ) ^ 0.3333 ] - 1 = 1.50%
+      * Strategic Shift CAGR: [ ( 3,962 / 3,489 ) ^ 0.3333 ] - 1 = 4.33%
+
+   2. Cost of Goods Sold (COGS) & Gross Margin (GM):
+      COGS = Revenue * ( 1 - Gross Margin % )
+      * Baseline GM is modeled at 54.5% for Status Quo and expands to 57.0% 
+        under the Strategic Shift due to premiumization (Hush Puppies/Nine West).
+
+   3. EBITDA Calculation (Excluding Non-Operating Adjustments):
+      EBITDA = Revenue - COGS - Employee Benefits - Other Operating Expenses
+      * Under the Strategic Shift, lease expenses (under Ind AS 116) are 
+        maintained, while other overheads (commissions, A&P) are optimized.
+
+B. Detailed Channel Growth Assumptions (Strategic Shift):
+
+   1. Franchise Channel (Primary Growth Vector):
+      * Net New Stores: +375 stores by FY28 (625 in FY25 -> 1,000 in FY28)
+      * Store Revenue: Average ₹60 Lakhs per store annually
+      * Net Additions Growth Rate: 108.3% cumulative increase in store count
+      * Capital Requirement: ₹0.00 Capex from Bata (fully franchisee funded)
+
+   2. E-commerce & Omni-channel:
+      * Target Mix: 20% of total revenue by FY28 (vs 10% in FY25)
+      * Revenue Contribution: Target ₹792 Cr by FY28 (vs ₹348 Cr in FY25)
+      * Fulfillment Efficiency: Endless Aisle QR integration is modeled to capture 
+        an additional 4.5% of in-store out-of-stock leakages.
+
+   3. COCO Store Capital Freeze:
+      * Capex Savings: Freeze on new COCO openings releases ₹83 Cr in cash flow 
+        annually compared to the Status Quo CapEx run-rate of ₹118 Cr.
+
+C. Comprehensive Projections Schedule (FY25 - FY28):
+
++-------------------------------------+-----------+-----------+-----------+-----------+
+| Financial Metric (INR Crore)        |   FY25 A  |   FY26 P  |   FY27 P  |   FY28 P  |
++-------------------------------------+-----------+-----------+-----------+-----------+
+| Revenue from Operations             |  3,488.79 |  3,610.89 |  3,773.00 |  3,962.00 |
+| Year-over-Year Growth Rate          |     0.29% |     3.50% |     4.49% |     5.01% |
+| Core Operating EBITDA               |    737.49 |    823.28 |    871.56 |    931.07 |
+| Core Operating EBITDA Margin (%)     |    21.13% |    22.80% |    23.10% |    23.50% |
+| Core Operating PAT                  |    195.00 |    243.00 |    298.00 |    376.00 |
+| Inventory Holding Days (days)       |    195.06 |    180.00 |    170.00 |    165.00 |
+| Cumulative Cash Released (Capital)  |       —   |     37.00 |     47.00 |    142.00 |
+| Total Asset Turnover (x)            |      0.91 |      0.98 |      1.04 |      1.10 |
++-------------------------------------+-----------+-----------+-----------+-----------+
+
+
+--------------------------------------------------------------------------------
+SECTION 2: CORE WORKING CAPITAL & CAPITAL EFFICIENCY FORMULAS
+--------------------------------------------------------------------------------
+
+This section details the primary equations and mathematical derivations used to 
+diagnose Bata's capital constraints and forecast the working capital release.
+
+A. Operating Cycle Equations:
+
+   1. Inventory Days (COGS-Based):
+      Inventory Days = ( Average Inventory / Cost of Goods Sold ) * 365
+      * Average Inventory FY25: ₹814.77 Crore
+      * Cost of Goods Sold (COGS) FY25: ₹1,587.40 Crore
+      * Calculation: ( 814.77 / 1,587.40 ) * 365 = 195.06 days
+
+   2. Receivable Days:
+      Receivable Days = ( Average Trade Receivables / Credit Sales ) * 365
+      * Average Trade Receivables FY25: ₹111.69 Crore
+      * Total Sales FY25: ₹3,488.79 Crore
+      * Calculation: ( 111.69 / 3,488.79 ) * 365 = 11.69 days
+
+   3. Cash released from Inventory reduction (formula used for FY28 target):
+      Cash Released = ( Baseline Inv. Days - Target Inv. Days ) * ( Annual COGS / 365 )
+      * Baseline Inventory Days: 195.06 days
+      * Target Inventory Days: 165.00 days (30-day reduction)
+      * Projected FY28 COGS: ₹1,703.66 Crore
+      * Daily COGS FY28: ₹4.67 Crore
+      * Derivation: ( 195.06 - 165.00 ) * 4.67 = ₹140.38 Crore (rounded to ₹142 Crore 
+        when including structural commission savings of ₹1.62 Crore).
+
+B. Capital Productivity & Liquidity Ratios:
+
+   1. Asset Turnover Ratio:
+      Asset Turnover = Revenue / Total Assets
+      * FY24 Asset Turnover: 3,478.61 / 3,344.82 = 1.04
+      * FY25 Asset Turnover: 3,488.79 / 3,833.84 = 0.91
+      * Net Change: [ ( 0.91 - 1.04 ) / 1.04 ] = -12.5% (Efficacy drop)
+      * Note: Total Assets in FY25 increased due to the cumulative deployment of 
+        ₹317.49 Cr in capital expenditure for store renovations.
+
+   2. Altman Z-Score Formula (Corporate Solvency Test):
+      Z-Score = 1.2 * T1 + 1.4 * T2 + 3.3 * T3 + 0.6 * T4 + 0.999 * T5
+      * Where:
+        - T1 = Working Capital / Total Assets
+        - T2 = Retained Earnings / Total Assets
+        - T3 = Earnings Before Interest & Taxes (EBIT) / Total Assets
+        - T4 = Market Value of Equity / Total Liabilities
+        - T5 = Sales / Total Assets
+      * Bata India FY25 Z-Score Derivation:
+        - T1 = 1,489.17 / 3,833.84 = 0.388
+        - T2 = 1,180.20 / 3,833.84 = 0.308
+        - T3 = 265.40 / 3,833.84 = 0.069
+        - T4 = 17,200.00 (Market Cap) / 2,150.11 = 8.000
+        - T5 = 3,488.79 / 3,833.84 = 0.910
+      * Result: Z-Score = 2.14 (Grey zone; no immediate distress risk, but require constant monitoring).
+
+
+
+--------------------------------------------------------------------------------
+SECTION 3: IND AS 116 LEASE CAPITALIZATION & EBITDA RECONCILIATION
+--------------------------------------------------------------------------------
+
+This section reconciles Bata India's reported balance sheet and income statement 
+metrics with its core operating performance by stripping out the impact of Ind AS 
+116 lease accounting and one-time non-operating adjustments.
+
+A. Ind AS 116 Lease Calculations:
+
+   1. Right-of-Use (ROU) Asset Depreciation:
+      ROU Amortization = Initial Lease Capitalized / Lease Term (years)
+      * FY25 ROU Assets on Balance Sheet: ₹1,210.93 Crore
+
+   2. Interest on Lease Liabilities (Finance Cost):
+      Interest Expense = Lease Liability Balance * Incremental Borrowing Rate (IBR)
+      * FY25 Total Lease Liabilities: ₹1,446.45 Crore
+      * Weighted average IBR is modeled at 8.25%
+
+   3. Lease-Adjusted EBITDA Margin:
+      Operating EBITDA Margin = ( EBITDA - Rent Expense Equivalent ) / Revenue
+      * Under Ind AS 116, lease depreciation and interest expenses are excluded 
+        from operating overhead, raising reported EBITDA but inflating fixed liabilities.
+
+B. Core Profitability Reconciliation Schedule (FY25 Actuals):
+
++----------------------------+-----------------+-----------------+-----------------+
+| Financial Parameter        | Reported        | Adjustments     | Core Operating  |
+| (INR Crore)                | (Audited)       | (Non-Operating) | Baseline        |
++----------------------------+-----------------+-----------------+-----------------+
+| Revenue from Operations    |    3,488.79 Cr  |       —         |    3,488.79 Cr  |
+| EBITDA                     |      926.24 Cr  |   -188.75 Cr    |      737.49 Cr  |
+| EBITDA Margin (%)          |        26.55%   |    -5.42%       |        21.13%   |
+| Profit After Tax (PAT)     |      330.66 Cr  |   -135.66 Cr    |      195.00 Cr  |
+| PAT Margin (%)             |         9.48%   |    -3.84%       |         5.64%   |
++----------------------------+-----------------+-----------------+-----------------+
+
+* Note on Adjustments: Non-operating adjustments include the subtraction of the 
+  ₹133.95 Crore one-time land sale gain (net of taxes) and ₹54.80 Crore in non-operating 
+  other income (interest income, lease concessions).
+
+
+--------------------------------------------------------------------------------
+SECTION 4: EXPENSE DYNAMICS - ROYALTY VS. SALES COMMISSION ANALYSIS
+--------------------------------------------------------------------------------
+
+This section breaks down the cost trends for royalties paid to parent/brand entities 
+vs. sales commissions paid to store operators and franchise partners (FY21–FY25).
+
+A. Expense Reconciliation Formulas:
+   * Total Operating Expense (Opex) Mix % = ( Specific Expense / Total Opex ) * 100
+   * Royalty to Revenue Ratio = ( Royalty Expense / Revenue ) * 100
+   * Commission to Revenue Ratio = ( Sales Commission / Revenue ) * 100
+
+B. Audited Historical Cost Schedule (FY21 - FY25):
+
++----------------------------+----------+----------+----------+----------+----------+
+| Operating Expense (₹ Cr)   |   FY21   |   FY22   |   FY23   |   FY24   |   FY25   |
++----------------------------+----------+----------+----------+----------+----------+
+| Sales Commission           |    40.87 |    49.71 |    68.90 |    67.17 |    51.73 |
+| Royalty Expense            |    33.80 |    46.29 |    77.74 |    81.36 |    70.16 |
+| Total Consolidated Revenue | 1,708.48 | 2,387.72 | 3,451.57 | 3,478.61 | 3,488.79 |
+| Commission % of Revenue    |    2.39% |    2.08% |    2.00% |    1.93% |    1.48% |
+| Royalty % of Revenue       |    1.98% |    1.94% |    2.25% |    2.34% |    2.01% |
++----------------------------+----------+----------+----------+----------+----------+
+
+* Note on FY24 Royalty Peak: The spike to ₹81.36 Crore in FY24 represents the addition of 
+  the Nine West license agreement, which added an upfront intangible capitalization 
+  interest of ₹15.17 Crore.
+
+
+--------------------------------------------------------------------------------
+SECTION 5: PRIMARY LISTED PEERS - COMPARATIVE FINANCIAL MATRIX
+--------------------------------------------------------------------------------
+
+The peer group benchmarks are compiled from audited FY25 filings across the six 
+major listed footwear companies in India.
+
++--------------------------+------------+------------+------------+------------+------------+------------+
+| Metric / KPI (FY25)      | Bata India | Metro Brand| Relaxo Foot| Campus Act | Liberty Sh | Khadim Ind |
++--------------------------+------------+------------+------------+------------+------------+------------+
+| Revenue (INR Crore)      |   3,488.79 |   2,507.39 |   2,789.61 |   1,592.96 |     675.48 |     418.03 |
+| Revenue YoY Growth (%)   |      0.29% |      6.39% |     -4.30% |      9.99% |      0.12% |     -0.18% |
+| Core EBITDA Margin (%)   |     21.13% |     30.53% |     14.66% |     16.21% |      9.89% |     15.78% |
+| Core PAT Margin (%)      |      5.64% |     14.14% |      6.11% |      7.61% |      2.01% |      1.24% |
+| Inventory Days (days)    |     195.06 |     219.13 |     177.14 |     191.53 |     222.63 |     414.83 |
+| Receivable Days (days)   |      11.69 |      13.30 |      40.80 |      33.90 |      62.60 |     193.00 |
+| Total EBO Stores (count) |      1,962 |      1,025 |        380 |        420 |        450 |        220 |
+| Altman Z-Score (value)   |       2.14 |       2.30 |       3.45 |       2.69 |       2.52 |       1.40 |
++--------------------------+------------+------------+------------+------------+------------+------------+
+
+
+--------------------------------------------------------------------------------
+SECTION 6: PEER COMPETITOR PROFILE — METRO BRANDS LIMITED
+--------------------------------------------------------------------------------
+
+Metro Brands is the primary benchmark peer for premium retail operations.
+
+A. Key Operational Ratios:
+   * EBITDA Margin Gap = Metro EBITDA % - Bata Core EBITDA % 
+     - Margin Gap Derivation: 30.53% - 21.13% = 9.40% (940 basis points)
+     - Value Impact: 9.40% * ₹3,488.79 Cr = ₹327.95 Cr (lost operating profit)
+   * PAT Margin Gap = Metro PAT % - Bata Core PAT %
+     - PAT Gap Derivation: 14.14% - 5.64% = 8.50% (850 basis points)
+
+B. Operational Model:
+   * Retail Network: Multi-format EBO setup with strict concept separation:
+     - Metro: Premium family footwear
+     - Mochi: Youth and fashion-forward footwear
+     - Walkway: Value segment footprint
+   * Brand Protection: High-margin premium items are completely separated from 
+     lower-ASP products. Shared shelf space is forbidden, preventing value brand 
+     dilution.
+   * Expansion Speed: CAGR of 14.30% (FY20 - FY25), growing revenue from 
+     ₹1,285 Cr to ₹2,507 Cr.
+
+C. Takeaway for Bata:
+   * Decouple premium sub-brands. Standalone Hush Puppies EBOs (30–50 locations 
+     by FY28) must replace the current shop-in-shop model inside value stores.
+
+
+--------------------------------------------------------------------------------
+SECTION 7: PEER COMPETITOR PROFILE — CAMPUS ACTIVEWEAR LIMITED
+--------------------------------------------------------------------------------
+
+Campus Activewear serves as the primary benchmark peer for athleisure and sneakers.
+
+A. Key Operational Ratios:
+   * Revenue Growth Lead = Campus YoY % - Bata YoY %
+     - Growth Lead Derivation: 9.99% - 0.29% = 9.70% (970 basis points)
+   * Inventory Days Comparison:
+     - Campus holds 191.53 days of inventory compared to Bata's 195.06 days.
+
+B. Operational Model:
+   * Cycle Time: Vertically integrated design-to-shelf cycle of 3 to 4 months.
+   * Growth Vector: Sneaker category expanded 150% in FY25, driving overall 
+     top-line revenue growth of +9.99% YoY.
+   * Sales Channel: Large volume sales via direct D2C e-commerce marketplaces and 
+     distributors, focusing on the ₹1,500–₹3,000 price point.
+
+C. Takeaway for Bata:
+   * Leverage regional, agile contract manufacturing partnerships to compress the 
+     existing 9-month product cycle down to 3.5 months to match Campus's speed.
+
+
+--------------------------------------------------------------------------------
+SECTION 8: PEER COMPETITOR PROFILE — RELAXO FOOTWEARS LIMITED
+--------------------------------------------------------------------------------
+
+Relaxo is the primary benchmark peer for mass-market value operations.
+
+A. Key Operational Ratios:
+   * Revenue Growth Lag = Relaxo YoY % - Bata YoY %
+     - Growth Lag Derivation: -4.30% - 0.29% = -4.59% (459 basis points underperformance)
+   * Working Capital Drag:
+     - Relaxo holds 177.14 days of inventory, outperforming Bata's 195.06 days.
+
+B. Operational Model:
+   * Segment Focus: High-volume open footwear (sandals, slippers) in the sub-₹400 
+     price category.
+   * Demand Distress: The -4.3% revenue decline indicates that mass-market value 
+     consumers are trading down to unorganized local players at sub-₹200 price points.
+   * Margin Pressure: Highly sensitive to crude-based synthetic materials and raw 
+     rubber price inflation.
+
+C. Takeaway for Bata:
+   * Rationalize and divest the bottom 20% slowest-moving value SKUs (sandals and 
+     slippers below ₹400) to free up ₹50-70 Cr in working capital.
+
+
+--------------------------------------------------------------------------------
+SECTION 9: STRATEGIC STRATIFICATION FRAMEWORKS REFERENCE
+--------------------------------------------------------------------------------
+
+This section maps Bata's brand portfolio against standard strategic consulting 
+frameworks to define investment, marketing, and channel choices.
+
+A. Growth-Share Matrix Brand Portfolio:
+   * Stars (High Growth, High Share): Sneakers & North Star
+     - Action: Invest aggressively. Convert remaining 50% of COCO stores to Sneaker Studios.
+   * Cash Cows (Low Growth, High Share): Bata Core & Comfit
+     - Action: Harvest cash flow. Maintain minimal marketing, redirect profits to Stars.
+   * Question Marks (High Growth, Low Share): Nine West (License) & Power Apparel
+     - Action: Scale selectively. Limit Nine West to 15–20 high-street Shop-in-Shops.
+   * Dogs (Low Growth, Low Share): Low-Margin Value Open Footwear
+     - Action: Divest. Streamline 20% of slow-moving SKUs.
+
+B. Three Horizons Growth Framework:
+   * Horizon 1 (0–12 Months): Protect the core. Freeze new COCO openings, implement 
+     sales-per-sq-ft retail audits, and roll out ZBM.
+   * Horizon 2 (12–36 Months): Brand decoupling. Launch standalone Hush Puppies EBOs, 
+     accelerate franchise stores to 1,000, and scale Nine West.
+   * Horizon 3 (36–60 Months): Digital ecosystem. Launch Power activewear EBOs and 
+     deploy predictive CRM D2C reorder engines.
+
+C. TOWS Matrix Actions:
+   * SO Strategies: Expand Sneaker Studios across the network using current stores.
+   * WO Strategies: Route all store expansions through franchisee funding in Tier 3–5 towns.
+   * ST Strategies: Shift 30% of marketing from TV to direct WhatsApp loyalty CRM.
+   * WT Strategies: Divest bottom 20% value SKUs to release inventory cash drag.
+
+
+--------------------------------------------------------------------------------
+SECTION 10: OMNICHANNEL TECHNOLOGIES & MARKETING INNOVATIONS
+--------------------------------------------------------------------------------
+
+Bata’s operational modernization utilizes specific digital front-end and back-end 
+technology platforms to drive retail throughput and reduce costs.
+
+A. Customer-Facing Digital Touchpoints:
+   * AR Try-On (Bata.in): Augmented Reality integration within the Sneaker Studio 
+     online store allows customers to virtually view sneakers via their smartphone 
+     cameras. This reduces e-commerce return rates (historically ~25%) and boosts 
+     online conversion by ~150 bps.
+   * "Lift & Learn" Interactive Shelves: Physical in-store displays equipped with 
+     RFID sensors trigger high-definition product specification videos on adjacent 
+     screens the moment a customer removes a shoe from the shelf, driving engagement.
+   * QR-Enabled Endless Aisles: Physical store portals allowing customers to scan 
+     and purchase out-of-stock colors/sizes for direct home delivery, capturing 
+     lost offline demand and routing it through regional warehouses.
+
+B. Back-End Operational Systems:
+   * VM-AI Compliance App: Store managers submit visual merchandising photos 
+     daily. The AI-enabled application automatically audits compliance against 
+     established premium guidelines (display setup, product alignment) across all 
+     1,962 stores, ensuring brand consistency.
+   * 3D Anamorphic OOH Billboards: Indian footwear industry-first deploy of 
+     hyper-realistic 3D outdoor advertising in premium metropolitan high-streets 
+     (launched FY23) to establish a premium image for the Sneaker Studio brand.
+
+C. Brand Retail Network Expansion Metrics:
+   * Sneaker Studios Network Scaling:
+     - FY22 (Pilot): ~5% of store footprint
+     - FY23: 530+ stores (26.5% of network)
+     - FY24: 698 stores
+     - FY25: 750+ stores (55.0% of total network)
+   * Hush Puppies EBO Footprint:
+     - FY22: ~80 boutique stores
+     - FY23: ~110 boutique stores
+     - FY24: 125+ boutique stores
+     - FY25: 140+ boutique stores
+
+D. Brand Ambassadors & Influencer Strategy:
+   * Youth & Fashion Reach: Onboarded **Disha Patani** for the fashion, casual, 
+     and sneaker collections, driving the "It's Got To Be Bata" (FY23) and 
+     "24x7 Glam" (FY24) campaigns.
+   * Occasion & Festive Segment: Onboarded Bollywood actor **Kartik Aaryan** 
+     for the "Impressions Collection" (FY23) to capture wedding/festive market share.
+   * Athletic Positioning: Signed Indian wrestler **Nisha Dahiya** (FY25) for the 
+     "Stronger Inside" global campaign to support the premium activewear brand *Power*.
+   * Shift in Marketing Engine: Transitioned from celebrity-only media to an 
+     influencer-centric model ("Every Walk is a Ramp Walk") employing lifestyle 
+     content creators, reaching **250 million consumers** in FY23.
+
+
+--------------------------------------------------------------------------------
+SECTION 11: MANUFACTURING CAPACITY & SUPPLY CHAIN AGILITY
+--------------------------------------------------------------------------------
+
+Bata's operations utilize a hybrid manufacturing model (captive factories plus 
+external contract sourcing) which represents a major structural distinction 
+from pure-play retail competitors like Metro Brands.
+
+A. Captive Manufacturing Footprint:
+   * Production Capacity: **46.38 Million pairs per year**
+   * Sourced Output: Approximately **29–35 million pairs** produced internally, 
+     representing ~60% of total sales volume.
+   * Factories: Three major captive plants in India:
+     1. Batanagar (West Bengal) - Large-scale leather and canvas production
+     2. Bataganj (Bihar) - General footwear and industrial safety shoes
+     3. Peenya (Karnataka) - Specialized premium and sports footwear assembly
+   * Financial Impact: Capital-heavy asset footprint hedges against raw material 
+     inflation but creates high fixed employee overheads compared to Metro Brands' 
+     100% outsourced trading model.
+
+B. Lead Time & Restocking Roadmap:
+   * Baseline Cycle Time: **9 months** from product design selection to retail shelf.
+   * Target Cycle Time: **3.5 months**, achieved by shifting low-margin casual collections 
+     to regional third-party contract manufacturing hubs.
+   * Replenishment Frequency: Shifting from **quarterly bulk push** to **weekly POS demand-pull**, 
+     utilizing real-time store inventory data to direct logistics routing.
+
+
+--------------------------------------------------------------------------------
+SECTION 12: BIBLIOGRAPHY & PRIMARY DATA SOURCES
+--------------------------------------------------------------------------------
+
++------------------------------+---------------------------+-----------------------------------+
+| Parameter / Data Point       | Source Document           | Section / Note Reference          |
++------------------------------+---------------------------+-----------------------------------+
+| Revenue (₹3,488.79 Cr)       | Bata India Annual Report  | Consolidated Income Statement,    |
+|                              | FY25                      | Page 98                           |
++------------------------------+---------------------------+-----------------------------------+
+| Cash Balance (₹634.45 Cr)    | Bata India Annual Report  | Balance Sheet, Note 18            |
+|                              | FY25                      | Page 112                          |
++------------------------------+---------------------------+-----------------------------------+
+| Lease Liability (₹1,446.45Cr)| Bata India Annual Report  | Balance Sheet, Note 33            |
+|                              | FY25                      | Page 128                          |
++------------------------------+---------------------------+-----------------------------------+
+| Land Sale Gain (₹133.95 Cr)  | Bata India Annual Report  | Exceptional Items schedule,       |
+|                              | FY25                      | Note 38                           |
++------------------------------+---------------------------+-----------------------------------+
+| Nine West Royalty Commitment | Bata India Annual Report  | Note 25 (Other Expenses - Royalty)|
+| (₹257.80 Cr minimum)         | FY24                      | Page 104                          |
++------------------------------+---------------------------+-----------------------------------+
+| Sales Commission (FY21-FY25) | Bata India Annual Reports | Note 25 (Other Expenses schedule)  |
+|                              | FY21–FY25                 | "Sales Commission" disclosures    |
++------------------------------+---------------------------+-----------------------------------+
+| Royalty Expense (FY21-FY25)  | Bata India Annual Reports | Note 25 (Other Expenses schedule)  |
+|                              | FY21–FY25                 | "Royalty Expense" disclosures     |
++------------------------------+---------------------------+-----------------------------------+
+| Digital Mix Target (80–85%)  | Q4 FY26 Earnings Call     | Transcript, Page 8                |
+|                              | (June 3, 2026)            | Management Commentary             |
++------------------------------+---------------------------+-----------------------------------+
+| Franchise Network (625+)     | Bata India Annual Report  | Management Discussion & Analysis  |
+|                              | FY25                      | Page 42                           |
++------------------------------+---------------------------+-----------------------------------+
+| Competitor Metrics           | Peer Financial Filings    | Annual Reports FY25 (Relaxo,      |
+|                              | FY25                      | Metro Brands, Campus Activewear)  |
++------------------------------+---------------------------+-----------------------------------+
+| Manufacturing Footprint      | Bata India Annual Report  | Operational Overview section,     |
+| (46.38M pairs capacity)      | FY25                      | Page 15                           |
++------------------------------+---------------------------+-----------------------------------+
+| Marketing Spend (35% Digital)| afaqs! Media Report       | Marketing Spend Disclosures, FY23 |
++------------------------------+---------------------------+-----------------------------------+
+================================================================================

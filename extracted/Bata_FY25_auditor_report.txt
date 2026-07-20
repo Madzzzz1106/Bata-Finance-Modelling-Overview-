@@ -1,0 +1,1056 @@
+--- Page 210 ---
+
+Annual Report 2024-25  | 187
+Independent Auditor’s Report
+To the Members of Bata India Limited
+Report on the Audit of the Consolidated Financial
+Statements
+Opinion
+1.
+We 
+have 
+audited 
+the 
+accompanying
+consolidated financial statements of Bata India
+Limited (hereinafter referred to as the “Holding
+Company”) and its subsidiaries (Holding
+Company and its subsidiaries together referred
+to as “the Group”) (refer Note 34 to the attached
+consolidated financial statements), which
+comprise the Consolidated Balance Sheet as at
+March 31, 2025, the Consolidated Statement of
+Profit and Loss (including Other Comprehensive
+Income), the Consolidated Statement of
+Changes in Equity and the Consolidated
+Statement of Cash Flows for the year then
+ended, and notes to the consolidated financial
+statements, including material accounting policy
+information and other explanatory information
+(hereinafter referred to as “the consolidated
+financial statements”).
+2.
+In our opinion and to the best of our information
+and according to the explanations given to us,
+the aforesaid consolidated financial statements
+give the information required by the Companies
+Act, 2013 (“the Act”) in the manner so required
+and give a true and fair view in conformity with
+the accounting principles generally accepted in
+India, of the consolidated state of affairs of the
+Group as at March 31, 2025, and consolidated
+total comprehensive income (comprising of
+profit and other comprehensive income),
+consolidated changes in equity and its
+consolidated cash flows for the year then ended.
+Basis for Opinion
+3.
+We conducted our audit in accordance with the
+Standards on Auditing (SAs) specified under
+Section 143(10) of the Act. Our responsibilities
+under those Standards are further described in
+the “Auditor’s Responsibilities for the Audit of
+the Consolidated Financial Statements” section
+of our report. We are independent of the Group
+in accordance with the ethical requirements that
+are relevant to our audit of the consolidated
+financial statements in India in terms of the Code
+of Ethics issued by the Institute of Chartered
+Accountants of India and the relevant provisions
+of the Act, and we have fulfilled our other ethical
+responsibilities in accordance with these
+requirements. We believe that the audit evidence
+we have obtained is sufficient and appropriate
+to provide a basis for our opinion.
+Key Audit Matters
+4.
+Key audit matters are those matters that, in our
+professional judgment, were of most significance
+in our audit of the consolidated financial
+statements of the current period. These matters
+were addressed in the context of our audit of
+the consolidated financial statements as a whole,
+and in forming our opinion thereon, and we do
+not provide a separate opinion on these matters.
+Other Information
+Key audit matter
+Appropriateness of Revenue recognition
+See note 1(e) and note 18 to the consolidated
+financial statements
+Revenue from the sale of goods is recognised when
+control in goods is transferred to the customer and
+is measured net of rebates, discounts and returns.
+A substantial part of Holding Company’s revenue
+relates to retail sales through a large number of
+Holding Company-owned retail outlets across the
+country and comprises high volume of transactions,
+which increases the risk of revenue being recognised
+inappropriately. A robust process for recording sales
+revenue is critical in order to mitigate risk of error
+and fraud.
+How our audit addressed the key audit matter
+We performed the following audit procedures in
+respect of revenue recognition:
+•
+Evaluated the design and implementation of key
+internal financial controls with respect to the
+revenue recognition and tested the operating
+effectiveness of such controls including those
+related to the reconciliation of sales records to
+cash/ credit card/ online receipts and bank
+deposits, preparation, posting and approval of
+journal entries based on selected transactions.
+•
+Assessed the appropriateness of the accounting
+policy for revenue recognition in accordance
+with the applicable accounting standards.
+Corporate Overview
+Statutory Reports
+Financial Statements
+
+
+--- Page 211 ---
+
+188 |  Annual Report 2024-25
+BATA INDIA LIMITED
+Key audit matter
+In addition to the Holding Company-owned retail
+outlets, the Holding Company generates revenue
+through non-retail business and franchisee retail
+outlets.
+Recognition of revenue requires determination of
+the net selling price after considering forecast of
+sales returns (in case of digital multi-channel
+business) and discounts. The estimate of sales
+returns and discounts depends on the Holding
+Company’s return policy, contract terms, forecast
+of sales volumes and past history of quantum of
+returns.
+Considering the above-mentioned factors,
+appropriateness of revenue recognition has been
+considered as a key audit matter.
+Determination of net realisable value (NRV) of
+inventories of finished goods
+See note 1(d), note 1A(d) and note 8 to the
+consolidated financial statements.
+The Holding Company’s inventory of finished goods
+is spread across multiple locations comprising a
+large number of retail stores, depots and factories
+across the country, which are counted by the Holding
+Company on a cyclical basis. The Holding Company’s
+goods (footwear and accessories) are subject to
+changing consumer demands and fashion trends and
+the net realisable value is determined by the Holding
+Company based on significant management
+judgement, various assumptions and estimates
+(including those related to obsolescence of slow and
+How our audit addressed the key audit matter
+•
+In relation to the revenue from Holding
+Company-owned retail outlets, tested sales
+during the year on a sample basis, by agreeing
+them with the cash / credit card / online
+receipts and bank deposits.
+•
+In relation to the revenue from non-retail
+business and franchisee retail outlets, tested
+sale transactions during the year on a sample
+basis, by examining the underlying documents
+such as sales invoice, customer contracts,
+shipping/dispatch documents along with proof
+of delivery, as applicable.
+•
+Tested on a sample basis, the reconciliation of
+the Holding Company-revenue recognised
+during the period with the sales as per indirect
+tax records.
+•
+Evaluated the contract terms for a sample of
+customer 
+contracts 
+to 
+assess 
+the
+reasonableness of refund liabilities for discounts
+and returns at the year end and determine
+whether the same is in line with terms of the
+contract.
+•
+Evaluated the Holding Company’s policy for
+returns and performed an analysis of trend for
+sales return in case of the digital multi-channel
+business and tested appropriateness of the
+refund liabilities for expected sales return as at
+the year-end.
+•
+Tested material non-standard manual journal
+entries impacting revenue in the year by
+understanding the rationale for the journal and
+agreeing to supporting documentation in order
+to confirm that the adjustments to revenue from
+material manual journal entries had been
+appropriately recognised.
+We performed the following audit procedures in
+relation to the determination of NRV of finished
+goods:
+•
+Evaluated the design and implementation of key
+internal financial controls with respect to
+determination of NRV for slow and non-moving
+inventory as well as inventory with low or
+negative gross margins and tested the
+operating effectiveness of such controls on
+selected samples of transactions.
+•
+Assessed the appropriateness of the accounting
+policy for inventory valuation as per the
+applicable accounting standards.
+
+
+--- Page 212 ---
+
+Annual Report 2024-25  | 189
+Key audit matter
+non-moving inventory as well as inventory with low
+or negative gross margins) as at the end of the
+reporting period.
+In view of involvement of significant management
+judgement and significance of the carrying value of
+inventory, this has been determined as a key audit
+matter.
+How our audit addressed the key audit matter
+•
+Observed the management’s physical
+verification of inventory of finished goods on a
+test check basis at periodic interval, to assess
+the existence and condition of the inventory.
+•
+On a sample basis, tested whether items in the
+inventory ageing report prepared by the
+Holding Company were classified within the
+appropriate ageing bracket.
+•
+Assessed the appropriateness of the
+methodology adopted and assumptions
+underlying the management’s assessment of
+the NRV of inventories of finished goods.
+•
+Tested, on a sample basis, the net realisable
+value of inventories at the year-end by
+comparing the carrying value with their
+subsequent selling prices and costs to sell
+subsequent to the year-end.
+5.
+The Holding Company’s Board of Directors is
+responsible for the other information. The other
+information comprises the Annual report, but
+does not include the consolidated financial
+statements and our auditor’s report thereon.
+Our opinion on the consolidated financial
+statements does not cover the other information
+and we do not express any form of assurance
+conclusion thereon.
+In connection with our audit of the consolidated
+financial statements, our responsibility is to read
+the other information and, in doing so, consider
+whether the other information is materially
+inconsistent with the consolidated financial
+statements or our knowledge obtained in the
+audit or otherwise appears to be materially
+misstated. If, based on the work we have
+performed and the reports of the other auditors
+as furnished to us (Refer paragraph 14 below),
+we conclude that there is a material
+misstatement of this other information, we are
+required to report that fact. We have nothing to
+report in this regard.
+Responsibilities of Management and Those Charged
+with Governance for the Consolidated Financial
+Statements
+6.
+The Holding Company’s Board of Directors is
+responsible for the preparation and presentation
+of these consolidated financial statements in
+term of the requirements of the Act that give a
+true and fair view of the consolidated financial
+position, consolidated financial performance,
+consolidated cash flows and changes in equity
+of the Group in accordance with the accounting
+principles generally accepted in India, including
+the Indian Accounting Standards specified under
+Section 133 of the Act. The respective Board of
+Directors of the companies included in the Group
+are responsible for maintenance of adequate
+accounting records in accordance with the
+provisions of the Act for safeguarding the assets
+of the Group and for preventing and detecting
+frauds and other irregularities; selection and
+application of appropriate accounting policies;
+making judgments and estimates that are
+reasonable and prudent; and the design,
+implementation and maintenance of adequate
+internal financial controls, that were operating
+effectively for ensuring accuracy and
+completeness of the accounting records,
+relevant to the preparation and presentation of
+the consolidated financial statements that give
+a true and fair view and are free from material
+misstatement, whether due to fraud or error,
+which have been used for the purpose of
+preparation of the consolidated financial
+statements by the Directors of the Holding
+Company, as aforesaid.
+7.
+In preparing the consolidated financial
+statements, the respective Board of Directors
+of the companies included in the Group are
+responsible for assessing the ability of the Group
+to continue as a going concern, disclosing, as
+applicable, matters related to going concern and
+using the going concern basis of accounting
+unless the Board of Directors either intends to
+liquidate the Group or to cease operations, or
+has no realistic alternative but to do so.
+Corporate Overview
+Statutory Reports
+Financial Statements
+
+
+--- Page 213 ---
+
+190 |  Annual Report 2024-25
+BATA INDIA LIMITED
+8.
+The respective Board of Directors of the
+companies included in the Group are responsible
+for overseeing the financial reporting process of
+the Group.
+Auditor’s Responsibilities for the Audit of the
+Consolidated Financial Statements
+9.
+Our objectives are to obtain reasonable
+assurance about whether the consolidated
+financial statements as a whole are free from
+material misstatement, whether due to fraud or
+error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a
+high level of assurance but is not a guarantee
+that an audit conducted in accordance with SAs
+will always detect a material misstatement when
+it exists. Misstatements can arise from fraud or
+error and are considered material if, individually
+or in the aggregate, they could reasonably be
+expected to influence the economic decisions
+of users taken on the basis of these consolidated
+financial statements.
+10. As part of an audit in accordance with SAs, we
+exercise professional judgment and maintain
+professional scepticism throughout the audit. We
+also:
+•
+Identify and assess the risks of material
+misstatement of the consolidated financial
+statements, whether due to fraud or error,
+design and perform audit procedures
+responsive to those risks, and obtain audit
+evidence that is sufficient and appropriate
+to provide a basis for our opinion. The risk
+of not detecting a material misstatement
+resulting from fraud is higher than for one
+resulting from error, as fraud may involve
+collusion, forgery, intentional omissions,
+misrepresentations, or the override of
+internal control.
+•
+Obtain an understanding of internal control
+relevant to the audit in order to design audit
+procedures that are appropriate in the
+circumstances. Under Section 143(3)(i) of
+the Act, we are also responsible for
+expressing our opinion on whether the
+Holding Company has adequate internal
+financial controls with reference to
+consolidated financial statements in place
+and the operating effectiveness of such
+controls.
+•
+Evaluate the appropriateness of accounting
+policies used and the reasonableness of
+accounting 
+estimates 
+and 
+related
+disclosures made by management.
+•
+Conclude on the appropriateness of
+management’s use of the going concern
+basis of accounting and, based on the audit
+evidence obtained, whether a material
+uncertainty exists related to events or
+conditions that may cast significant doubt
+on the ability of the Group to continue as a
+going concern. If we conclude that a material
+uncertainty exists, we are required to draw
+attention in our auditor’s report to the
+related disclosures in the consolidated
+financial statements or, if such disclosures
+are inadequate, to modify our opinion. Our
+conclusions are based on the audit evidence
+obtained up to the date of our auditor’s
+report. However, future events or conditions
+may cause the Group to cease to continue
+as a going concern.
+•
+Evaluate the overall presentation, structure
+and content of the consolidated financial
+statements, including the disclosures, and
+whether the consolidated financial
+statements represent the underlying
+transactions and events in a manner that
+achieves fair presentation.
+•
+Obtain sufficient appropriate audit evidence
+regarding the financial information of the
+entities or business activities within the
+Group to express an opinion on the
+consolidated financial statements. We are
+responsible for the direction, supervision and
+performance of the audit of the financial
+statements of such entities included in the
+consolidated financial statements of which
+we are the independent auditors. For the
+other entities included in the consolidated
+financial statements, which have been
+audited by other auditors, such other
+auditors remain responsible for the direction,
+supervision and performance of the audits
+carried out by them. We remain solely
+responsible for our audit opinion.
+11.
+We communicate with those charged with
+governance of the Holding Company regarding,
+among other matters, the planned scope and
+timing of the audit and significant audit findings,
+including any significant deficiencies in internal
+control that we identify during our audit.
+12. We also provide those charged with governance
+with a statement that we have complied with
+relevant ethical requirements regarding
+independence, and to communicate with them
+all relationships and other matters that may
+reasonably be thought to bear on our
+independence, and where applicable, related
+safeguards.
+
+
+--- Page 214 ---
+
+Annual Report 2024-25  | 191
+13. From the matters communicated with those
+charged with governance, we determine those
+matters that were of most significance in the
+audit of the consolidated financial statements
+of the current period and are therefore the key
+audit matters. We describe these matters in our
+auditor’s report unless law or regulation
+precludes public disclosure about the matter or
+when, in extremely rare circumstances, we
+determine that a matter should not be
+communicated in our report because the
+adverse consequences of doing so would
+reasonably be expected to outweigh the public
+interest benefits of such communication.
+Other Matter
+14. The standalone financial statements of two
+subsidiaries reflect total assets of Rs 149.07
+million and net assets of Rs 92.95 million as at
+March 31, 2025, total revenue of Rs. 36.96 million,
+total comprehensive income (comprising of
+profit and other comprehensive income) of Rs
+19.89 million and net cash flows amounting to
+Rs 17.81 million for the year ended on that date,
+as considered in the consolidated financial
+statements. The financial statements of these
+subsidiaries have been audited by other auditors
+whose reports have been furnished to us by the
+Holding Company’s management, and our
+opinion on the consolidated financial statements
+insofar as it relates to the amounts and
+disclosures included in respect of these
+subsidiaries and our report in terms of sub-
+section (3) of Section 143 of the Act including
+report on Other Information insofar as it relates
+to the aforesaid subsidiaries is based on the
+reports of the other auditors and the procedures
+performed by us.
+Our opinion on the consolidated financial
+statements, and our report on Other Legal and
+Regulatory Requirements below, is not modified
+in respect of the above matters with respect to
+our reliance on the work done and reports of
+the other auditors.
+Report on Other Legal and Regulatory
+Requirements
+15. As required by the Companies (Auditor’s Report)
+Order, 2020 (“CARO 2020”), issued by the
+Central Government of India in terms of sub-
+section (11) of Section 143 of the Act, we give in
+the Annexure B, a statement on the matters
+specified in paragraph 3(xxi) of CARO 2020.
+16. As required by Section 143(3) of the Act, we
+report, to the extent applicable, that:
+(a) We have sought and obtained all the
+information and explanations which to the
+best of our knowledge and belief were
+necessary for the purposes of our audit of
+the aforesaid consolidated financial
+statements.
+(b) In our opinion, proper books of account as
+required by law relating to preparation of
+the aforesaid consolidated financial
+statements have been kept so far as it
+appears from our examination of those
+books and the reports of the other auditors
+except for the matters stated in paragraph
+16(h)(vi) below on reporting under Rule 11(g)
+of the Companies (Audit and Auditors)
+Rules, 2014 (as amended).
+(c) The Consolidated Balance Sheet, the
+Consolidated Statement of Profit and Loss
+(including other comprehensive income), the
+Consolidated Statement of Changes in
+Equity and the Consolidated Statement of
+Cash Flows dealt with by this Report are in
+agreement with the relevant books of
+account and records maintained for the
+purpose of preparation of the consolidated
+financial statements.
+(d) In our opinion, the aforesaid consolidated
+financial statements comply with the Indian
+Accounting Standards specified under
+Section 133 of the Act.
+(e)  On the basis of the written representations
+received from the directors of the Holding
+Company as on March 31, 2025, taken on
+record by the Board of Directors of the
+Holding Company and the reports of the
+statutory auditors of its subsidiaries
+incorporated in India, none of the directors
+of the Group companies incorporated in
+India is disqualified as on March 31, 2025
+from being appointed as a director in terms
+of Section 164(2) of the Act.
+(f) With respect to the maintenance of accounts
+and other matters connected therewith,
+reference is made to our remarks in
+paragraph 16(b) above on reporting under
+Section 143(3)(b) and paragraph 16(h)(vi)
+below on reporting under Rule 11(g) of the
+Rules.
+(g) With respect to the adequacy of internal
+financial controls with reference to
+consolidated financial statements of the
+Group and the operating effectiveness of
+such controls, refer to our separate report
+in Annexure A.
+Corporate Overview
+Statutory Reports
+Financial Statements
+
+
+--- Page 215 ---
+
+192 |  Annual Report 2024-25
+BATA INDIA LIMITED
+(h) With respect to the other matters to be
+included in the Auditor’s Report in
+accordance with Rule 11 of the Companies
+(Audit and Auditors) Rules, 2014, in our
+opinion and to the best of our information
+and according to the explanations given to
+us:
+i.
+The consolidated financial statements
+disclose the impact, if any, of pending
+litigations on the consolidated financial
+position of the Group - Refer Note 29(A)
+to the consolidated financial statements.
+ii.
+The Group did not have any long-term
+contracts including derivative contracts
+for which there were any material
+foreseeable losses.
+iii.
+There has been no delay in transferring
+amounts required to be transferred to
+the Investor Education and Protection
+Fund by the Holding Company during
+the year.
+iv.
+(a) The respective managements of the
+Holding 
+Company 
+and 
+its
+subsidiaries which are companies
+incorporated in India whose financial
+statements have been audited under
+the Act have represented to us and
+the other auditors of such
+subsidiaries respectively that, to the
+best of their knowledge and belief,
+as disclosed in Note 39 (v) to the
+consolidated financial statements,
+no funds have been advanced or
+loaned or invested (either from
+borrowed funds or share premium
+or any other sources or kind of
+funds) by the Holding Company or
+any of such subsidiaries to or in any
+other person(s) or entity(ies),
+including 
+foreign 
+entities
+(“Intermediaries”), 
+with 
+the
+understanding, whether recorded in
+writing or otherwise, that the
+Intermediary shall, whether directly
+or indirectly, lend or invest in other
+persons or entities identified in any
+manner whatsoever by or on behalf
+of the Holding Company or any of
+such 
+subsidiaries 
+(“Ultimate
+Beneficiaries”) or provide any
+guarantee, security or the like on
+behalf of the Ultimate Beneficiaries.
+(b) The respective managements of the
+Holding 
+Company 
+and 
+its
+subsidiaries which are companies
+incorporated in India whose financial
+statements have been audited under
+the Act have represented to us and
+the other auditors of such
+subsidiaries respectively that, to the
+best of their knowledge and belief,
+as disclosed in the Notes 39(vi) to
+the 
+consolidated 
+financial
+statements, no funds have been
+received by the Holding Company
+or any of such subsidiaries from any
+person(s) or entity(ies), including
+foreign entities (“Funding Parties”),
+with the understanding, whether
+recorded in writing or otherwise,
+that the Company or any of such
+subsidiaries shall, whether directly
+or indirectly, lend or invest in other
+persons or entities identified in any
+manner whatsoever by or on behalf
+of the Funding Party (“Ultimate
+Beneficiaries”) or provide any
+guarantee, security or the like on
+behalf of the Ultimate Beneficiaries.
+(c) Based on the audit procedures, that
+has been considered reasonable and
+appropriate in the circumstances,
+performed by us and those
+performed by the auditors of the
+subsidiaries which are companies
+incorporated in India whose financial
+statements have been audited under
+the Act, nothing has come to our or
+other auditor’s notice that has
+caused us or the other auditors to
+believe that the representations
+under sub-clause (i) and (ii) of Rule
+11(e) 
+contain 
+any 
+material
+misstatement.
+v.
+The final dividend paid by the Holding
+Company during the year in respect of
+the same declared for the previous year
+is in accordance with section 123 of the
+Companies Act 2013 to the extent it
+applies to payment of dividend. Further,
+the interim dividend paid by the Holding
+Company during the year in respect of
+the same declared during the year is in
+accordance with section 123 of the
+Companies Act 2013 to the extent it
+applies to payment of dividend.
+
+
+--- Page 216 ---
+
+Annual Report 2024-25  | 193
+As stated in note 26 to the consolidated
+financial statements, the Board of
+Directors of the Company have
+proposed final dividend for the year
+which is subject to the approval of the
+members at the ensuing Annual General
+Meeting. The dividend declared is in
+accordance with section 123 of the Act
+to the extent it applies to declaration of
+dividend. Further its subsidiaries have
+not declared or paid any dividend during
+the year.
+vi.
+Based on our examination, which
+included test checks and that performed
+by the respective auditors of the
+subsidiaries, which are companies
+incorporated in India whose financial
+statements have been audited under the
+Act, except for the instances mentioned
+below, the Group has used core and
+multiple 
+support 
+software 
+for
+maintaining their books of account
+which have a feature of recording audit
+trail (edit log) facility and that has
+operated throughout the year for all
+relevant transactions recorded in the
+software. During the course of
+performing our procedures, other than
+as described below, we and the
+respective auditors of the above
+referred subsidiaries, did not notice any
+instance of the audit trail feature being
+tampered with. Additionally, other than
+as described below, the audit trail, to the
+extent maintained in the prior year, has
+been preserved by the Company and
+above referred subsidiaries as per the
+statutory requirements for record
+retention:
+Holding Company
+1.
+Audit trail feature was not available for one supporting accounting software;
+2.
+Audit trail has been enabled for part of the year at the database level for
+two supporting accounting software. Further, with respect to direct
+database changes for one core accounting software, in the absence of
+adequate evidence of necessary controls and documentation, we are unable
+to comment on the audit trail feature; and
+3.
+Audit trail does not contain logs for all information related to any
+modification maintained at the application level for one supporting
+accounting software for part of the year and at database level for all
+accounting software.
+In respect of entities audited by other auditors, the following paragraphs relating to audit trail was included
+in their respective audit reports, which has been reproduced by us-
+Based on our examination which included test checks, the company has used
+an accounting software for maintaining its books of account for the financial
+year ended 31st March 2025, which has a feature of recording audit trail (edit
+log) facility and the same has been operated and enabled throughout the year
+and operational for all relevant transactions recorded in the software. Further,
+during the course of our audit we did not come across any instance of audit
+trail feature being tampered with and the management as well as software
+provider has represented that the audit trail feature cannot be disabled.
+Additionally as per the statutory requirements for record retention, the Audit
+trail has been preserved by the company in respect of previous year with effect
+from 25th October 2023 i.e., the date from which the Audit trail was enabled.
+Based on our examination which included test checks, the company has used
+an accounting software for maintaining its books of account for the financial
+year ended 31st March 2025, which has a feature of recording audit trail (edit
+log) facility and the same has been enabled w.e.f. 27th June 2024 for all relevant
+transactions recorded in the system. Further, during the course of our audit
+we did not come across any instance of audit trail feature being tampered
+with and the management has represented that the audit trail feature cannot
+be disabled. The company did not enable Audit Trail feature in previous year
+ended 31st March 2024, hence such Audit Trail could not be preserved for
+previous year as per the statutory requirement for record retention.
+Subsidiary- Way Finders
+Brands Limited
+Auditor- DSP &
+Associates, Chartered
+Accountants
+Subsidiary- Bata
+Properties Limited
+Auditor- DSP &
+Associates, Chartered
+Accountants
+Corporate Overview
+Statutory Reports
+Financial Statements
+
+
+--- Page 217 ---
+
+194 |  Annual Report 2024-25
+BATA INDIA LIMITED
+17.
+The Holding Company has paid/ provided for managerial remuneration in accordance with the requisite
+approvals mandated by the provisions of Section 197 read with Schedule V to the Act.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+Rajib Chatterjee
+Partner
+Membership Number: 057134
+UDIN: 25057134BMTCOP3158
+Place: Gurugram
+Date: May 28, 2025
+
+
+--- Page 218 ---
+
+Annual Report 2024-25  | 195
+Annexure A to Independent Auditor’s Report
+Referred to in paragraph 16(g) of the Independent Auditor’s Report of even date to the members of
+Bata India Limited on the consolidated financial statements as of and for the year ended March 31, 2025
+Report on the Internal Financial Controls with reference to Consolidated
+Financial Statements under clause (i) of sub-section 3 of Section 143 of the Act
+1.
+In conjunction with our audit of the consolidated
+financial statements of the Company as of and
+for the year ended March 31, 2025, we have
+audited the internal financial controls with
+reference to consolidated financial statements
+of Bata India Limited (hereinafter referred to as
+“the Holding Company”) and its subsidiaries,
+which are companies incorporated in India, as
+of that date.
+Management’s Responsibility for Internal Financial
+Controls
+2.
+The respective Board of Directors of the Holding
+Company and its subsidiaries, to whom reporting
+under clause (i) of sub section 3 of Section 143
+of the Act in respect of the adequacy of the
+internal financial controls with reference to
+financial statements is applicable, which are
+companies incorporated in India, are responsible
+for establishing and maintaining internal financial
+controls based on internal control over financial
+reporting criteria established by the Company
+considering the essential components of internal
+control stated in the Guidance Note on Audit of
+Internal Financial Controls Over Financial
+Reporting (“the Guidance Note”) issued by the
+Institute of Chartered Accountants of India
+(“ICAI”). These responsibilities include the
+design, implementation and maintenance of
+adequate internal financial controls that were
+operating effectively for ensuring the orderly and
+efficient conduct of its business, including
+adherence to the respective company’s policies,
+the safeguarding of its assets, the prevention and
+detection of frauds and errors, the accuracy and
+completeness of the accounting records, and the
+timely preparation of reliable financial
+information, as required under the Act.
+Auditor’s Responsibility
+3.
+Our responsibility is to express an opinion on
+the Company’s internal financial controls with
+reference to consolidated financial statements
+based on our audit. We conducted our audit in
+accordance with the Guidance Note issued by
+the ICAI and the Standards on Auditing specified
+under Section 143(10) of the Companies Act,
+2013, to the extent applicable to an audit of
+internal financial controls, both applicable to an
+audit of internal financial controls and both
+issued by the ICAI. Those Standards and the
+Guidance Note require that we comply with
+ethical requirements and plan and perform the
+audit to obtain reasonable assurance about
+whether adequate internal financial controls with
+reference to consolidated financial statements
+was established and maintained and if such
+controls operated effectively in all material
+respects.
+4.
+Our audit involves performing procedures to
+obtain audit evidence about the adequacy of the
+internal financial controls system with reference
+to consolidated financial statements and their
+operating effectiveness. Our audit of internal
+financial controls with reference to consolidated
+financial statements included obtaining an
+understanding of internal financial controls with
+reference to consolidated financial statements,
+assessing the risk that a material weakness exists,
+and testing and evaluating the design and
+operating effectiveness of internal control based
+on the assessed risk. The procedures selected
+depend on the auditor’s judgement, including
+the assessment of the risks of material
+misstatement of the consolidated financial
+statements, whether due to fraud or error.
+5.
+We believe that the audit evidence we have
+obtained and the audit evidence obtained by the
+other auditors in terms of their reports referred
+to in the Other Matters paragraph below is
+sufficient and appropriate to provide a basis for
+our audit opinion on the Holding Company’s
+internal financial controls system with reference
+to consolidated financial statements.
+Meaning of Internal Financial Controls with
+reference to consolidated financial statements
+6.
+The holding company’s internal financial control
+with reference to consolidated financial
+Corporate Overview
+Statutory Reports
+Financial Statements
+
+
+--- Page 219 ---
+
+196 |  Annual Report 2024-25
+BATA INDIA LIMITED
+statements is a process designed to provide
+reasonable assurance regarding the reliability of
+financial reporting and the preparation of
+consolidated financial statements for external
+purposes in accordance with generally accepted
+accounting principles. A company’s internal
+financial control with reference to consolidated
+financial statements includes those policies and
+procedures that (1) pertain to the maintenance
+of records that, in reasonable detail, accurately
+and fairly reflect the transactions and
+dispositions of the assets of the company; (2)
+provide reasonable assurance that transactions
+are recorded as necessary to permit preparation
+of consolidated financial statements in
+accordance with generally accepted accounting
+principles, and that receipts and expenditures
+of the company are being made only in
+accordance with authorisations of management
+and directors of the company; and (3) provide
+reasonable assurance regarding prevention or
+timely detection of unauthorised acquisition,
+use, or disposition of the company’s assets that
+could have a material effect on the consolidated
+financial statements.
+Inherent Limitations of Internal Financial Controls
+with reference to consolidated financial statements
+7.
+Because of the inherent limitations of internal
+financial controls with reference to consolidated
+financial statements, including the possibility of
+collusion or improper management override of
+controls, material misstatements due to error or
+fraud may occur and not be detected. Also,
+projections of any evaluation of the internal
+financial controls with reference to consolidated
+financial statements to future periods are subject
+to the risk that the internal financial control with
+reference to consolidated financial statements
+may become inadequate because of changes in
+conditions, or that the degree of compliance with
+the policies or procedures may deteriorate.
+Opinion
+8.
+In our opinion, the Holding Company and its
+subsidiaries, which are companies incorporated
+in India, have, in all material respects, an
+adequate internal financial controls system with
+reference to consolidated financial statements
+and such internal financial controls with
+reference to consolidated financial statements
+were operating effectively as at March 31, 2025,
+based on the internal control over financial
+reporting criteria established by the Company
+considering the essential components of internal
+control stated in the Guidance Note issued by
+the ICAI.
+Other Matter
+9.
+Our aforesaid reports under Section 143(3)(i) of
+the Act on the adequacy and operating
+effectiveness of the internal financial controls
+with reference to consolidated financial
+statements insofar as it relates to two
+subsidiaries, which are companies incorporated
+in India, is based on the corresponding reports
+of the auditors of such companies incorporated
+in India. Our opinion is not modified in respect
+of this matter.
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+Rajib Chatterjee
+Partner
+Membership Number: 057134
+UDIN: 25057134BMTCOP3158
+Place: Gurugram
+Date: May 28, 2025
+
+
+--- Page 220 ---
+
+Annual Report 2024-25  | 197
+Annexure B to Independent Auditor’s Report
+Referred to in paragraph 15 of the Independent Auditor’s Report of even date to the members
+of Bata India Limited on the consolidated financial statements as of and for the year ended
+March 31, 2025
+As required by paragraph 3(xxi) of the CARO 2020, we report that the auditors of the following companies
+have given qualification or adverse remarks in their CARO report on the standalone financial statements of
+the respective companies included in the Consolidated Financial Statements of the Holding Company:
+S.
+Name of the
+CIN
+Relationship
+Date of the
+Paragraph number
+No.
+Company
+with the Holding
+respective
+in the respective
+Company
+auditors’ report
+CARO report
+1.
+Bata India
+L19201WB1931PLC007261
+Holding
+May 28, 2025
+i (c) and vii (a)
+Limited
+Company
+2.
+Bata
+U70101WB1987PLC042839
+Subsidiary
+May 26, 2025
+i (c)
+Properties
+Limited
+3.
+Way Finders
+U19100WB2014PLC204637
+Subsidiary
+May 26, 2025
+ii(a), xvi and xviii
+Brands
+Limited
+For Price Waterhouse Chartered Accountants LLP
+Firm Registration Number: 012754N/N500016
+Rajib Chatterjee
+Partner
+Membership Number: 057134
+UDIN: 25057134BMTCOP3158
+Place: Gurugram
+Date: May 28, 2025
+Corporate Overview
+Statutory Reports
+Financial Statements

@@ -1,0 +1,96 @@
+--- Page 231 ---
+
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 31 MARCH 2021
+BATA INDIA LIMITED
+204
+(Amount in INR million)
+b) Contribution to defined contribution plans:
+For the year 
+ended
+31 March 2021
+For the year 
+ended
+31 March 2020
+Pension fund                                                                                         
+ 
+7.57 
+ 
+8.23 
+c)  Provident fund:
+The Provident Fund (where administered by a Trust) is a defined benefit scheme where by the Company deposits an amount 
+determined as a fixed percentage of basic pay to the fund every month. The benefit vests upon commencement of employment. 
+The interest credited to the accounts of the employees is adjusted on an annual basis to confirm to the interest rate declared by 
+the government for the Employees Provident Fund. As per the Actuarial Society of India guidance note (GN21) for measurement 
+of provident fund liabilities, the actuary has accordingly provided a valuation based on the below provided assumptions, there 
+is no shortfall as at 31 March 2021.
+As at
+31 March 2021
+As at
+31 March 2020
+Discount Rate
+6.60%
+6.48%
+Expected Return on Exempt Fund
+8.52%
+8.33%
+Rate of Return on EPFO managed PF
+8.50%
+8.50%
+Mortality Rate
+Indian Assured 
+Lives Mortality 
+(2012-14) 
+ultimate
+Indian Assured 
+Lives Mortality 
+(2006-08) 
+ultimate
+For the year 
+ended
+31 March 2021
+For the year 
+ended
+31 March 2020
+Contribution to provident and other funds*
+139.12 
+154.69
+*Included under employee benefit expense in the head contribution to provident fund and other funds.
+The detail of fund and plan asset position as at 31 March, 2020 is given below:
+As at
+31 March 2021
+As at
+31 March 2020
+Plan assets at fair value
+4,444.28 
+4,779.13
+Present value of the defined benefit obligation
+3,857.83 
+4,180.98
+Asset recognized in the balance sheet 
+NIL
+NIL
+Information relating to reconciliation from opening balance to closing balance for plan assets and present value of defined benefit 
+obligation, classes of plan assets help, sensitivity analysis for actuarial assumptions, other than disclosed above, including the 
+methods and assumptions used in preparing the analysis, expected contribution for the next year and maturity profile of the 
+defined benefit obligation as required by INDAS - 19 'Employee benefits' is not available with the Company.
+30. Contingent liabilities and commitments
+A. Contingent liabilities 
+a) Claims against Company not acknowledged as debts includes:
+Nature
+As at
+31 March 2021
+As at
+31 March 2020
+Excise, customs and service tax cases
+116.61 
+116.61 
+Sales tax cases
+15.80 
+15.80 
+Others*
+279.24 
+279.95 
+Total
+411.65 
+412.36 
+   *Others include individually small cases pertaining to rent, labour etc.

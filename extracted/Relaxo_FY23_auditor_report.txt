@@ -1,0 +1,827 @@
+--- Page 90 ---
+
+88
+Independent Auditors’ Report
+TO THE MEMBERS OF RELAXO FOOTWEARS LIMITED
+Report on the Financial Statements
+Opinion
+We have audited the accompanying financial statements of 
+Relaxo Footwears Limited (“the Company”), which comprise 
+the Balance Sheet as at  March 31, 2023, the Statement of 
+Profit and Loss (including Other Comprehensive Income), the 
+Statement of Changes in Equity and Statement of Cash Flows 
+for the year then ended, and notes to the financial statements, 
+including a summary of significant accounting policies and other 
+explanatory information (hereinafter referred to as the “financial 
+statements”).
+In our opinion and to the best of our information and according to 
+the explanations given to us, the aforesaid  financial statements 
+give the information required by the Companies Act, 2013 (the 
+“Act”) in the manner so required and give a true and fair view 
+in conformity with the Indian Accounting Standards prescribed 
+under section 133 of the Act read with the Companies (Indian 
+Accounting Standards) Rules, 2015, as amended, (“Ind AS”) and 
+other accounting principles generally accepted in India, of the 
+state of affairs of the Company as at March 31, 2023 and its 
+profit, total comprehensive income, changes in equity and its 
+cash flows for the year ended on that date.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on 
+Auditing (SAs) specified under section 143(10) of the Act. Our 
+responsibilities under those Standards are further described 
+in the Auditor’s Responsibilities for the Audit of the Financial 
+Statements section of our report. We are independent of the 
+Company in accordance with the Code of Ethics issued by the 
+Institute of Chartered Accountants of India (“ICAI”) together with 
+the ethical requirements that are relevant to our audit of the 
+financial statements under the provisions of the Act and the rules 
+thereunder, and we have fulfilled our other ethical responsibilities 
+in accordance with these requirements and the ICAI’s Code of 
+Ethics. We believe that the audit evidence we have obtained is 
+sufficient and appropriate to provide a basis for our opinion.
+Key Audit Matters 
+Key audit matters are those matters that, in our professional 
+judgment, were of most significance in our audit of the financial 
+statements of the current period. These matters were addressed 
+in the context of our audit of the financial statements as a 
+whole, and in forming our opinion thereon, and we do not provide 
+a separate opinion on these matters. We have determined the 
+matters described below to be the key audit matters to be 
+communicated in our report.
+Description of Key Audit Matters:
+Key audit matters
+How our audit addressed the key audit matter
+Revenue Recognition
+(Refer Note no.20,29 and 47 to the Financial statements)
+As per the accounting policy of the Company, the revenue is recognised 
+upon transfer of control of goods to the customer and thus requires an 
+estimation of the revenue taking into consideration the rebates and 
+discounts as per the terms of the contracts.
+With regard to the determination of revenue, the management is 
+required to make significant estimates in respect of following:
+• 	 the rebates/discounts  linked to sales, which will be given to the 
+customers pursuant to schemes offered by the Company; and
+•	 discounts offered by the customers to the ultimate consumers at the 
+behest of the Company.
+The matter has been determined to be a key audit matter in view of the 
+involvement of significant estimates by the management.
+Our audit procedures included the following:
+•	 Obtained an understanding from the management with regard to 
+controls relating to recording of rebates and discounts and period end 
+provisions relating to estimation of revenue, and tested the operating 
+effectiveness of such controls;
+•	 Tested the inputs used in the estimation of revenue in context of 
+rebates and discounts to source data;
+•	 Assessed the underlying assumptions used for determination of 
+rebates and discounts;
+•	 Ensured the completeness of liabilities recognised by evaluating the 
+parameters for sample schemes;
+•	 Performed look-back analysis for past trends by comparing recent 
+actuals with the estimates of earlier periods and assessed subsequent 
+events;
+• 	 Tested credit notes issued to customers and payments made to them 
+during the year and subsequent to the year-end along with the terms 
+of the related schemes.
+Based on the above procedures, we did not identify any significant 
+deviation to the assessment made by management in respect of 
+estimation of rebates and discounts.
+
+
+--- Page 91 ---
+
+89
+Key audit matters
+How our audit addressed the key audit matter
+Provisions, Litigations, Claims and Contingent Liabilities:
+(Refer Note-16, 29 and  30)
+The management is required to make judgements and estimates in 
+relation to the issues and exposures arising from a range of matters 
+relating to direct tax, indirect tax, general legal proceedings and other 
+eventualities arising in the regular course of business. The Company 
+is also subject to complexities arising from uncertain tax positions on 
+deductibility of expenses and allowance of certain tax deductions.
+The key judgement lies in determining the likelihood and magnitude of 
+the possible cash outflows and interpretations of the legal aspects, tax 
+legislations and judgements previously made by authorities. By nature, 
+these are complex and include many variables.
+Our audit procedures included the following:
+• 	 We tested the design, implementation and operating effectiveness 
+of key internal controls around the recognition and measurement of 
+provisions.
+• 	 We inquired about the status in respect of significant provisions with 
+the Company’s internal tax and legal team.
+• 	 We assessed the value of material provisions in light of the nature 
+of the exposures, applicable regulations and related correspondence 
+with the authorities.
+• 	 We challenged the assumptions and critical judgements made by 
+the Company which impacted their estimate of provision required, 
+considering judgements previously made by the authorities in 
+the relevant jurisdictions or any relevant opinions given by the 
+Company’s advisors and assessing whether there was an indication of 
+management bias.
+• 	 We verified the calculation of provision on a test check basis.
+Information Other than the Financial Statements and 
+Auditors’ Report thereon 
+The Company’s Board of Directors is responsible for the 
+preparation of the other information. The other information 
+comprises the information included in the Management 
+Discussion and Analysis, Board’s Report including Annexures 
+to Board’s Report, Business Responsibility Report, Corporate 
+Governance and Shareholder’s Information, but does not include 
+the financial statements and our auditors’ report thereon. The 
+Other Information is expected to be made available to us after 
+the date of this auditors’ report. Our opinion on the financial 
+statements does not cover the other information and we do not 
+express any form of assurance conclusion thereon. In connection 
+with our audit of the financial statements, our responsibility is to 
+read the other information and, in doing so, consider whether the 
+other information is materially inconsistent with the financial 
+statements, or our knowledge obtained during the course of our 
+audit or otherwise appears to be materially misstated. If, based 
+on the work we have performed, we conclude that there is a 
+material misstatement of this other information, we are required 
+to report that fact. We have nothing to report in this regard. 
+Management’s 
+Responsibility 
+for 
+the 
+Financial 
+Statements
+The Company’s Board of Directors is responsible for the 
+matters stated in section 134(5) of the Act, with respect to 
+the preparation of these  financial statements that give a true 
+and fair view of the financial position, financial performance, 
+cash flows and changes in equity of the Company in accordance 
+with the accounting principles generally accepted in India, 
+including the Indian Accounting Standards (Ind AS) prescribed 
+under section 133 of the Act. This responsibility also includes 
+maintenance of adequate accounting records in accordance 
+with the provisions of the Act for safeguarding the assets of 
+the Company and for preventing and detecting frauds and other 
+irregularities; selection and application of appropriate accounting 
+policies; making judgments and estimates that are reasonable 
+and prudent; and design, implementation and maintenance 
+of adequate internal financial controls, that were operating 
+effectively for ensuring the accuracy and completeness of the 
+accounting records, relevant to the preparation and presentation 
+of the financial statements that give a true and fair view and are 
+free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is 
+responsible for assessing the Company’s ability to continue as a 
+going concern, disclosing, as applicable, matters related to going 
+concern and using the going concern basis of accounting unless 
+management either intends to liquidate the Company or to cease 
+operations, or has no realistic alternative but to do so.
+Those Board of Directors are also responsible for overseeing the 
+Company’s financial reporting process.
+Auditors’ Responsibility for the Audit of the Financial 
+Statements
+Our objectives are to obtain reasonable assurance about whether 
+the financial statements as a whole are free from material 
+misstatement, whether due to fraud or error, and to issue an 
+auditor’s report that includes our opinion. Reasonable assurance 
+is a high level of assurance but is not a guarantee that an audit 
+conducted in accordance with SAs will always detect a material 
+misstatement when it exists. Misstatements can arise from 
+fraud or error and are considered material if, individually or in 
+aggregate, they could reasonably be expected to influence the 
+economic decisions of users taken on the basis of these financial 
+statements.
+
+
+--- Page 92 ---
+
+90
+As part of an audit in accordance with SAs, we exercise 
+professional judgment and maintain professional scepticism 
+throughout the audit. We also: 
+Identify and assess the risks of material misstatement of the 
+financial statements, whether due to fraud or error, design and 
+perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis 
+for our opinion. The risk of not detecting a material misstatement 
+resulting from fraud is higher than for one resulting from error, 
+as fraud may involve collusion, forgery, intentional omissions, 
+misrepresentations, or the override of internal control.
+Obtain an understanding of internal control relevant to the audit 
+in order to design audit procedures that are appropriate in the 
+circumstances. Under section 143(3)(i) of the Act, we are also 
+responsible for expressing our opinion on whether the company 
+has an adequate internal financial controls system in place and 
+the operating effectiveness of such controls. 
+Evaluate the appropriateness of accounting policies used and the 
+reasonableness of accounting estimates and related disclosures 
+made by management. 
+Conclude on the appropriateness of management’s use of 
+the going concern basis of accounting and, based on the audit 
+evidence obtained, whether a material uncertainty exists related 
+to events or conditions that may cast significant doubt on the 
+Company’s ability to continue as a going concern. If we conclude 
+that a material uncertainty exists, we are required to draw 
+attention in our auditor’s report to the related disclosures in 
+the financial statements or, if such disclosures are inadequate, 
+to modify our opinion. Our conclusions are based on the audit 
+evidence obtained up to the date of our auditors’ report. However, 
+future events or conditions may cause the Company to cease to 
+continue as a going concern.
+Evaluate the overall presentation, structure and content of the 
+financial statements, including the disclosures, and whether the 
+financial statements represent the underlying transactions and 
+events in a manner that achieves fair presentation.
+Materiality is the magnitude of misstatements in the financial 
+statements that, individually or in aggregate, makes it probable 
+that the economic decisions of a reasonably knowledgeable user 
+of the financial statements may be influenced. We consider 
+quantitative materiality and qualitative factors in (i) planning the 
+scope of our audit work and in evaluating the results of our work; 
+and (ii) to evaluate the effect of any identified misstatements in 
+the financial statements.
+We communicate with those charged with governance regarding, 
+among other matters, the planned scope and timing of the 
+audit and significant audit findings, including any significant 
+deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement 
+that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought 
+to bear on our independence, and where applicable, related 
+safeguards.
+From the matters communicated with those charged with 
+governance, we determine those matters that were of most 
+significance in the audit of the financial statements of the 
+current period and are therefore the key audit matters. We 
+describe these matters in our auditors’ report unless law or 
+regulation precludes public disclosure about the matter or when, 
+in extremely rare circumstances, we determine that a matter 
+should not be communicated in our report because the adverse 
+consequences of doing so would reasonably be expected to 
+outweigh the public interest benefits of such communication.
+Other Matter 
+The comparative Ind AS financial statements of the Company 
+for financial year ended on 31st March, 2022 included in these 
+financial statements have been audited by predecessor auditors 
+whose report for the year ended on 31st March, 2022 dated 11th 
+May, 2022 expressed an unmodified opinion on theses financial 
+statements. Our opinion on the financial statements above, and 
+our report on Other Legal and Regulatory Requirements below, is 
+not modified in respect of the above matter with respect to our 
+reliance on the work done and the report of the other auditors. 
+Report on Other Legal and Regulatory Requirements
+1.	 As required by the Companies (Auditor’s Report) Order, 2020 
+(“the Order”) issued by the Central Government of India in 
+terms of section 143 (11) of the Act, we give in the Annexure 
+‘A’ a statement on the matters specified in paragraphs 3 and 
+4 of the Order, to the extent applicable.
+2.	 As required by section 143(3) of the Act, we report that:
+(a)	 We have sought and obtained all the information and 
+explanations, which to the best of our knowledge and 
+belief were necessary for the purpose of our audit.
+(b)	 In our opinion, proper books of account as required by law 
+have been kept by the Company so far as it appears from 
+our examination of those books.
+(c)	 The Balance Sheet, the Statement of Profit and Loss 
+including Other Comprehensive Income, the Cash Flow 
+Statement and Statement of Changes in Equity dealt 
+with by this Report are in agreement with the books of 
+account.
+(d)	 In our opinion, the aforesaid financial statements comply 
+with the Indian Accounting Standards specified under 
+section 133 of the Act.
+(e)	 On the basis of written representations received from the 
+directors as at March 31, 2023 and taken on record by the 
+
+
+--- Page 93 ---
+
+91
+Board of Directors, none of the directors is disqualified as 
+at March 31, 2023 from being appointed as a director in 
+terms of section 164 (2) of the Act. 
+(f)	 With respect to the adequacy of the internal financial 
+controls over financial reporting of the Company and 
+the operating effectiveness of such controls, refer to our 
+separate report in Annexure ‘B’
+(g)	 With respect to the other matters to be included in the 
+Auditor’s Report in accordance with the requirements of 
+section 197(16) of the Act, as amended: 
+	
+In our opinion and to the best of our information 
+and according to the explanations given to us, the 
+remuneration paid by the Company to its directors during 
+the year is in accordance with the provisions of section 
+197 of the Act. 
+(h)	 With respect to the other matters to be included in 
+the Auditors’ Report in accordance with Rule 11 of the 
+Companies (Audit and Auditors) Rules, 2014, in our 
+opinion and to the best of our information and according 
+to the explanations given to us:
+i)	
+The Company has disclosed the impact of pending 
+litigations on its financial position in Note-30 to 
+financial statements.
+ii)	 The Company did not have any long-term contracts 
+including any derivative contracts for which there 
+were any material foreseeable losses;
+iii) 	There has been no delay in transferring amounts 
+required to be transferred to the Investor Education 
+and Protection Fund by the Company.
+iv)	 (a)	 The Management has represented that, to 
+the best of its knowledge and belief, no funds 
+(which are material either individually or in the 
+aggregate) have been advanced or loaned or 
+invested (either from borrowed funds or share 
+premium or any other sources or kind of funds) by 
+the Company to or in any other person or entity, 
+including 
+foreign 
+entity 
+(“Intermediaries”), 
+with the understanding, whether recorded in 
+writing or otherwise, that the Intermediary 
+shall, whether, directly or indirectly lend or 
+invest in other persons or entities identified in 
+any manner whatsoever by or on behalf of the 
+Company (“Ultimate Beneficiaries”) or provide 
+any guarantee, security or the like on behalf of 
+the Ultimate Beneficiaries; 
+	
+(b)	 The Management has represented, that, to 
+the best of its knowledge and belief, no funds 
+(which are material either individually or in the 
+aggregate) have been received by the Company 
+from any person or entity, including foreign entity 
+(“Funding Parties”), with the understanding, 
+whether recorded in writing or otherwise, 
+that the Company shall, whether, directly or 
+indirectly, lend or invest in other persons or 
+entities identified in any manner whatsoever 
+by or on behalf of the Funding Party (“Ultimate 
+Beneficiaries”) or provide any guarantee, security 
+or the like on behalf of the Ultimate Beneficiaries;
+	
+(c) 	Based on the audit procedures that have been 
+considered reasonable and appropriate in 
+the circumstances, nothing has come to our 
+notice that has caused us to believe that the 
+representations under sub-clause (i) and (ii) of 
+Rule 11(e), as provided under (a) and (b) above, 
+contain any material misstatement.
+v)	 a)	 The final dividend paid by the Company during 
+the year in respect of the same declared for the 
+previous year is in accordance with section 123 of 
+the Companies Act 2013 to the extent it applies 
+to payment of  dividend (Refer Note No.13 to the 
+financial statements);
+	
+b)	 As stated in Note  No.48 to the financial 
+statements, the Board of Directors of the 
+Company have proposed final dividend for 
+the year which is subject to the approval of 
+the members at the ensuing Annual General 
+Meeting. The dividend declared is in accordance 
+with section 123 of the Act to the extent it applies 
+to declaration of dividend;
+vi)	 Proviso to Rule 3(1) of the Companies (Accounts) 
+Rules, 2014 for maintaining books of account 
+using accounting software which has a feature of 
+recording audit trail (edit log) facility is applicable 
+to the Company with effect from April 1, 2023, and 
+accordingly, reporting under Rule 11(g) of Companies 
+(Audit and Auditors) Rules, 2014 is not applicable for 
+the financial year ended March 31, 2023.
+	
+For Gupta & Dua
+	
+Chartered Accountants
+	
+Firm’s Registration No. 003849N
+	
+Mukesh Dua
+	
+Partner
+	
+Membership No.085323
+New Delhi, May 10, 2023 	
+UDIN: 23085323BGRIOD7847
+
+
+--- Page 94 ---
+
+92
+Annexure “A” to the Independent Auditors’ Report
+(Referred to in Paragraph 1 under the heading “Report on other legal and regulatory requirements” of our report of even date)
+To the best of our information and according to the explanations 
+provided to us by the Company and the books of account 
+and records examined by us in the normal course of audit, we 
+state that:
+1.	 a)	 (A)	 The Company has maintained proper records showing 
+full particulars including quantitative details and 
+situation of Property, plant and equipment.
+	
+	
+(B)	 The Company has maintained proper records 
+showing full particulars of intangible assets
+	
+b)	 According to the information and explanations given to 
+us, property, plant and equipment have been physically 
+verified by the management in a phased periodical 
+manner which in our opinion is reasonable having regard 
+to the size of the Company and nature of its assets. No 
+material discrepancies were noticed on such verification.
+	
+c)	 Based upon the audit procedure performed and according 
+to the records of the Company, the title deeds of all the 
+immovable properties (other than properties where the 
+Company is the lessee, and the lease agreements are 
+duly executed in favour of the lessee) are held in the 
+name of the Company.
+	
+d)	 The Company has not revalued its Property, plant and 
+equipment (including Right of use Assets) and intangible 
+assets during the year end.
+	
+e)	 According to the information and explanations given 
+to us, no proceedings have been initiated or pending 
+against the Company for holding any benami property 
+under the “Benami Transactions (Prohibition) Act, 1988
+(as amended in 2016) and rules made thereunder.
+2.	 In respect of its inventories:
+	
+a)	 The management has physically verified the inventories. 
+In our opinion, the frequency, coverage and procedure of 
+such verification is reasonable. The discrepancies noticed 
+on verification between the physical stocks and the book 
+records were not material and such discrepancies have 
+been properly dealt with in the books of accounts.
+	
+b)	 The Company has been sanctioned working capital 
+limits in excess of H5 crores, in aggregate, from banks 
+on the basis of security of current assets during the year. 
+According to the information and explanations given 
+to us, the quarterly returns or statements filed by the 
+Company with such banks  are in agreement with the 
+books of accounts of the Company.
+3.	 In our opinion and according to the information and 
+explanations given to us, the Company has not made any 
+investments in, provided any guarantee or security or 
+granted any loans or, secured or unsecured to companies, 
+firms, Limited Liability Partnerships or other parties.
+4.	 In our opinion and according to the information and 
+explanations given to us, the Company has not granted 
+any loans or provided any guarantees or security to the 
+parties covered under section 185 of the Act. In respect of 
+investments made by the Company, the provisions of section 
+186 of the Act have been complied with.
+5.	 In our opinion and according to the information and 
+explanations given to us, the Company has not accepted 
+any deposit from the public during the year in terms of the 
+provisions of section 73 to 76 of the Act or any other relevant 
+provisions of the Companies Act, 2013 and the rules made 
+thereunder.
+6.	 The maintenance of cost records has not been specified by 
+the Central Government under sub-section (1) of section 148 
+of the Companies Act, 2013 for the business activities carried 
+out by the Company. Hence, reporting under clause (vi) of the 
+Order is not applicable to the Company.
+7.	 In respect of statutory dues:
+	
+a)	 In our opinion, the Company has generally been regular 
+in depositing undisputed statutory dues, including 
+Goods and Services tax, Provident Fund, Employees’ 
+State Insurance, Income Tax, Sales Tax, Service Tax, duty 
+of Custom, duty of Excise, Value Added Tax, Cess and 
+other material statutory dues applicable to it with the 
+appropriate authorities.
+	
+	
+There were no undisputed amounts payable in respect of 
+Goods and Service tax, Provident Fund, Employees’ State 
+Insurance, Income Tax, Sales Tax, Service Tax, duty of 
+Custom, duty of Excise, Value Added Tax, Cess and other 
+material statutory dues in arrears as at March 31, 2023 
+for a period of more than six months from the date they 
+became payable.
+
+
+--- Page 95 ---
+
+93
+S. N.
+Name of the Statute
+Nature of 
+Dues
+Forum where dispute 
+is pending
+Period to which the amount 
+relates
+Amount
+1.
+Haryana General Sales Tax Act, 1973.
+Purchase Tax
+Jt. Commissioner
+2001-2002
+0.20
+2002-2003
+0.15
+2.
+Delhi Value Added Tax Act, 2005
+Input Tax  
+Appellate Tribunal, Delhi
+2008-2009
+0.02
+2013-2014
+0.22
+3.
+i)	
+Rajasthan Tax on Entry of Goods 
+into Local Area Act, 1999
+Entry Tax
+Tax Board, (Ajmer).
+2011-12 to 2016-17
+  0.71
+ii)	 Rajasthan Goods & services Tax-
+2017
+Goods & 
+Services Tax
+Jt. Commissioner 
+(State Tax), Jaipur
+2019-20 to 2021-22
+36.45
+4.
+Uttarakhand Goods & services Tax-
+2017
+Goods & 
+Services Tax
+Dy. Commissioner 
+(State tax), Haridwar
+2018-19 & 2019-20
+0.74
+5.
+Income Tax Act, 1961
+Income Tax (*)
+Assessing Officer & CPC
+2006-07,2008-09 to 2013-14, 
+2016-17 to 2019-20
+4.80(*) 
+TDS
+Assessing Officer, 
+Commissioner (A), ITAT
+2008-09 to 2011-12, 2013-14 
+to 2015-16, 2017-18 to 2019-
+20, 2022-23 & 2023-24 
+ 0.04
+Total
+43.33
+(*) The above demands are majorly on account of Dividend Distribution Tax (DDT) credit not given by Income Tax Department while issuing intimations 
+under section 143(1) of the  Income Tax Act,1961. The Company has disputed the same as the said DDT has already been deposited on time and the 
+Company has submitted the proof for payment to the Department for deleting the said demands.
+b)	 Details of statutory dues referred to in sub-clause (a) above which have not been deposited as on March 31, 2023 on account of 
+disputes are given below:	
+(H in Crore)
+8.	 There were no transactions relating to previously unrecorded 
+income that have been surrendered or disclosed as income 
+during the year in the tax assessments under the Income 
+Tax Act, 1961 (43 of 1961).
+9.	 a)	 Based on the information and explanations given to 
+us, we are of the opinion that the Company has not 
+defaulted in repayment of loans or other borrowings or 
+in the payment of interest thereon to any lenders.
+	
+b)	 The Company is not declared a willful defaulter by any 
+bank or financial institution or other lender.
+	
+c)	 The Company has not taken any term loan during the 
+year and there are no outstanding term loans at the 
+beginning of the year and hence, reporting under clause 
+3(ix)(c) of the Order is not applicable.
+	
+d)	 On an overall examination of the financial statements 
+of the Company, funds raised on short-term basis have, 
+prima facie, not been used during the year for long-term 
+purposes by the Company.
+	
+e)	 The Company has no subsidiaries, associates or joint 
+ventures. Hence, reporting under clause 3 (ix)(e) and (f) 
+of the Order is not applicable
+10.	 a)	 The Company has not raised moneys by way of an 
+initial public offer or further public offer (including debt 
+instruments) during the year. Hence, reporting under 
+clause 3(x)(a) of the Order is not applicable.
+	
+b)	 The company has not made any preferential allotment 
+of shares or fully or partially convertible debentures 
+during the year. Hence, reporting under clause 3 (x) (b) of 
+the Order is not applicable.
+11.	 a)	 No fraud by the Company and no material fraud on the 
+Company has been noticed or reported during the year.
+	
+b)	 No report under sub-section (12) of section 143 of the 
+Companies Act has been filed in Form ADT-4 as prescribed 
+under rule 13 of Companies (Audit and Auditors) Rules, 
+2014 with the Central Government, during the year and 
+upto the date of this report.
+	
+c)	 We have taken into consideration the whistle blower 
+complaints received by the Company during the year 
+(and upto the date of this report), while determining the 
+nature, timing and extent of our audit procedures.
+12.	 In our opinion, the Company is not a Nidhi Company. 
+Therefore, the provisions of clause 3(xii) of the Order are not 
+applicable to the Company.
+13.	 In our opinion, the Company is in compliance with Section 
+177 and 188 of the Companies Act, 2013 with respect to 
+applicable transactions with the related parties and the 
+details of related party transactions have been disclosed 
+in the financial statements as required by the applicable 
+accounting standards.
+14.	 a)	 In our opinion, the Company has an adequate internal 
+audit system commensurate with the size and nature of 
+its business
+	
+b)	 We have considered, the internal audit reports for the 
+year under audit, issued to the Company during the 
+
+
+--- Page 96 ---
+
+94
+year and till date, in determining the nature, timing and 
+extent of our audit procedures.
+15.	 According to the information and explanations given to us 
+and on an overall examination of the financial statements of 
+the Company, we report that the Company has not entered 
+into any non-cash transaction with directors or persons 
+connected with him, therefore, reporting under clause 3(xv) 
+of the Order is not applicable.
+16.	 a)	 The Company is not engaged in business of Non-Banking 
+Financial Company or Housing Finance Company or Core 
+Investment Company requiring registration under the 
+Reserve Bank of India Act, 1934. Hence, reporting under 
+clause 3(xvi)(a), (b) and (c) of the Order is not applicable.
+	
+b)	 The Company is not a part of a Group as defined in the 
+Core Investment Companies (Reserve Bank) Directions, 
+2016 and accordingly, reporting under clause 3(xvi)(d) of 
+the Order is not applicable.
+17.	 The Company has not incurred any cash losses in the 
+financial year covered by our audit and in the immediately 
+preceding financial year.
+18.	 There has been no resignation of the statutory auditors of 
+the Company during the year.
+19.	 On the basis of the financial ratios, ageing and expected 
+dates of realisation of financial assets and payment of 
+financial liabilities, other information accompanying the 
+financial statements and our knowledge of the Board 
+of Directors and Management plans and based on our 
+examination of the evidence supporting the assumptions, 
+nothing has come to our attention, which causes us to 
+believe that any material uncertainty exists as on the date 
+of the audit report indicating that Company is not capable 
+of meeting its liabilities existing at the date of balance 
+sheet as and when they fall due within a period of one year 
+from the balance sheet date. We, however, state that this is 
+not an assurance as to the future viability of the Company. 
+We further state that our reporting is based on the facts 
+up to the date of the audit report and we neither give any 
+guarantee nor any assurance that all liabilities falling due 
+within a period of one year from the balance sheet date, will 
+get discharged by the Company as and when they fall due.
+20.	a)	 There are no unspent amounts towards Corporate Social 
+Responsibility (CSR) on other than ongoing projects 
+requiring a transfer to a Fund specified in Schedule 
+VII to the Companies Act in compliance with  second 
+proviso to sub-section (5) of Section 135 of the said Act. 
+Accordingly, reporting under clause 3(xx)(a) of the Order 
+is not applicable for the year.
+	
+b)	 In respect of ongoing projects, the Company has 
+transferred unspent Corporate Social Responsibility 
+(CSR) amount as at the end of the previous financial 
+year, to a Special account within a period of 30 days from 
+the end of the said financial year in compliance with the 
+provision of section 135(6) of the Act.
+	
+	
+In respect of ongoing projects, the Company has 
+transferred the unspent Corporate Social Responsibility 
+(CSR)    amount as at the Balance Sheet date out of the 
+amounts that was required to be spent during the year, 
+to a Special Account in compliance with the provision of 
+sub-section (6) of section 135 of the Act.
+For Gupta & Dua
+Chartered Accountants
+Firm’s Registration No. 003849N
+Mukesh Dua
+Partner
+Membership No.085323
+New Delhi, May 10, 2023	
+UDIN: 23085323BGRIOD7847
+
+
+--- Page 97 ---
+
+95
+Annexure “B” to the Independent Auditors’ Report
+(Referred to in Paragraph 2(f) under the heading “Report on other legal and regulatory requirements” of our report of even date)
+Report on the Internal Financial Controls under clause 
+(i) of sub section 3 of section 143 of the Companies Act, 
+2013 (“the Act”)
+We have audited the internal financial controls over financial 
+reporting of Relaxo Footwears Limited (“the Company”) as of 
+March 31, 2023 in conjunction with our audit of the financial 
+statements of the Company for the year ended on that date.
+Management’s Responsibility for Internal Financial Controls
+The Company’s management is responsible for establishing and 
+maintaining internal financial controls based on the internal 
+control over financial reporting criteria established by the 
+Company considering the essential components of internal control 
+stated in the Guidance Note on Audit of Internal Financial Controls 
+Over Financial Reporting issued by the Institute of Chartered 
+Accountants of India. These responsibilities include the design, 
+implementation and maintenance of adequate internal financial 
+controls that were operating effectively for ensuring the orderly 
+and efficient conduct of its business, including adherence to 
+company’s policies, the safeguarding of its assets, the prevention 
+and detection of frauds and errors, the accuracy and completeness 
+of the accounting records, and the timely preparation of reliable 
+financial information, as required under the Act.
+Auditors’ Responsibility
+Our responsibility is to express an opinion on the Company's internal 
+financial controls over financial reporting based on our audit. We 
+conducted our audit in accordance with the Guidance Note on 
+Audit of Internal Financial Controls Over Financial Reporting (the 
+“Guidance Note”) and the Standards on Auditing, issued by ICAI 
+and deemed to be prescribed under section 143(10) of the Act, 
+to the extent applicable to an audit of internal financial controls, 
+both applicable to an audit of Internal Financial Controls and, both 
+issued by the Institute of Chartered Accountants of India. Those 
+Standards and the Guidance Note require that we comply with 
+ethical requirements and plan and perform the audit to obtain 
+reasonable assurance about whether adequate internal financial 
+controls over financial reporting was established and maintained 
+and if such controls operated effectively in all material respects.
+Our audit involves performing procedures to obtain audit evidence 
+about the adequacy of the internal financial controls system over 
+financial reporting and their operating effectiveness. Our audit 
+of internal financial controls over financial reporting included 
+obtaining an understanding of internal financial controls over 
+financial reporting, assessing the risk that a material weakness 
+exists, and testing and evaluating the design and operating 
+effectiveness of internal control based on the assessed risk. The 
+procedures selected depend on the auditor’s judgment, including 
+the assessment of the risks of material misstatement of the 
+financial statements, whether due to fraud or error.
+We believe that the audit evidence we have obtained is sufficient and 
+appropriate to provide a basis for our audit opinion on the Company’s 
+internal financial controls system over financial reporting.
+Meaning of Internal Financial Controls Over Financial 
+Reporting
+A company's internal financial control over financial reporting is a 
+process designed to provide reasonable assurance regarding the 
+reliability of financial reporting and the preparation of financial 
+statements for external purposes in accordance with generally 
+accepted accounting principles. A company's internal financial 
+control over financial reporting includes those policies and 
+procedures that (1) pertain to the maintenance of records that, 
+in reasonable detail, accurately and fairly reflect the transactions 
+and dispositions of the assets of the company; (2) provide 
+reasonable assurance that transactions are recorded as necessary 
+to permit preparation of financial statements in accordance 
+with generally accepted accounting principles, and that receipts 
+and expenditures of the company are being made only in 
+accordance with authorizations of management and directors 
+of the company; and (3) provide reasonable assurance regarding 
+prevention or timely detection of unauthorized acquisition, use, 
+or disposition of the company's assets that could have a material 
+effect on the financial statements.
+Inherent Limitations of Internal Financial Controls Over 
+Financial Reporting
+Because of the inherent limitations of internal financial controls 
+over financial reporting, including the possibility of collusion 
+or improper management override of controls, material 
+misstatements due to error or fraud may occur and not be 
+detected. Also, projections of any evaluation of the internal 
+financial controls over financial reporting to future periods 
+are subject to the risk that the internal financial control over 
+financial reporting may become inadequate because of changes 
+in conditions, or that the degree of compliance with the policies 
+or procedures may deteriorate.
+Opinion
+In our opinion, the Company has, in all material respects, an 
+adequate internal financial controls system over financial 
+reporting and such internal financial controls over financial 
+reporting were operating effectively as at March 31, 2023 based 
+on the internal control over financial reporting criteria established 
+by the Company considering the essential components of internal 
+control stated in the Guidance Note on Audit of Internal Financial 
+Controls Over Financial Reporting issued by the Institute of 
+Chartered Accountants of India.
+	
+For Gupta & Dua
+Chartered Accountants
+Firm’s Registration No. 003849N
+Mukesh Dua
+Partner
+Membership No.085323
+New Delhi, May 10, 2023	
+UDIN: 23085323BGRIOD7847
